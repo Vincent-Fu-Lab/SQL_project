@@ -1,0 +1,2075 @@
+<pays>
+  <nom>French Polynesia</nom>
+  <code>FPOL</code>
+  <montagne>
+    <nom>Mont Orohena</nom>
+  </montagne>
+</pays>
+
+<pays>
+  <nom>Guam</nom>
+  <code>GUAM</code>
+</pays>
+
+<pays>
+  <nom>Kiribati</nom>
+  <code>KIR</code>
+</pays>
+
+<pays>
+  <nom>Marshall Islands</nom>
+  <code>MH</code>
+</pays>
+
+<pays>
+  <nom>Micronesia</nom>
+  <code>FSM</code>
+</pays>
+
+<pays>
+  <nom>Nauru</nom>
+  <code>NAU</code>
+</pays>
+
+<pays>
+  <nom>New Caledonia</nom>
+  <code>NCA</code>
+</pays>
+
+<pays>
+  <nom>New Zealand</nom>
+  <code>NZ</code>
+  <montagne>
+    <nom>Mt. Cook</nom>
+  </montagne>
+  <montagne>
+    <nom>Ruapehu</nom>
+  </montagne>
+</pays>
+
+<pays>
+  <nom>Niue</nom>
+  <code>NIUE</code>
+</pays>
+
+<pays>
+  <nom>Norfolk Island</nom>
+  <code>NORF</code>
+</pays>
+
+<pays>
+  <nom>Northern Mariana Islands</nom>
+  <code>NMIS</code>
+</pays>
+
+<pays>
+  <nom>Palau</nom>
+  <code>PAL</code>
+</pays>
+
+<pays>
+  <nom>Pitcairn Islands</nom>
+  <code>PITC</code>
+</pays>
+
+<pays>
+  <nom>Solomon Islands</nom>
+  <code>SLB</code>
+  <montagne>
+    <nom>Popomanaseu</nom>
+  </montagne>
+</pays>
+
+<pays>
+  <nom>Tonga</nom>
+  <code>TO</code>
+</pays>
+
+<pays>
+  <nom>Tuvalu</nom>
+  <code>TUV</code>
+</pays>
+
+<pays>
+  <nom>Vanuatu</nom>
+  <code>VU</code>
+</pays>
+
+<pays>
+  <nom>Wallis and Futuna</nom>
+  <code>WAFU</code>
+</pays>
+
+<pays>
+  <nom>Samoa</nom>
+  <code>WS</code>
+  <montagne>
+    <nom>Silisili</nom>
+  </montagne>
+</pays>
+
+<pays>
+  <nom>Argentina</nom>
+  <code>RA</code>
+  <montagne>
+    <nom>Monte Pissis</nom>
+  </montagne>
+  <montagne>
+    <nom>Aconcagua</nom>
+  </montagne>
+  <montagne>
+    <nom>Tupungato</nom>
+  </montagne>
+  <montagne>
+    <nom>Llullaillaco</nom>
+  </montagne>
+  <montagne>
+    <nom>Monte Pissis</nom>
+  </montagne>
+  <montagne>
+    <nom>Ojos del Salado</nom>
+  </montagne>
+</pays>
+
+<pays>
+  <nom>Bolivia</nom>
+  <code>BOL</code>
+  <montagne>
+    <nom>Illampu</nom>
+  </montagne>
+  <montagne>
+    <nom>Illimani</nom>
+  </montagne>
+  <montagne>
+    <nom>Licancabur</nom>
+  </montagne>
+  <montagne>
+    <nom>Sajama</nom>
+  </montagne>
+</pays>
+
+<pays>
+  <nom>Brazil</nom>
+  <code>BR</code>
+  <montagne>
+    <nom>Pico de Agulhas Negras</nom>
+  </montagne>
+  <montagne>
+    <nom>Pico de Agulhas Negras</nom>
+  </montagne>
+</pays>
+
+<pays>
+  <nom>Chile</nom>
+  <code>RCH</code>
+  <montagne>
+    <nom>Licancabur</nom>
+  </montagne>
+  <montagne>
+    <nom>Llullaillaco</nom>
+  </montagne>
+  <montagne>
+    <nom>Ojos del Salado</nom>
+  </montagne>
+</pays>
+
+<pays>
+  <nom>Paraguay</nom>
+  <code>PY</code>
+</pays>
+
+<pays>
+  <nom>Uruguay</nom>
+  <code>ROU</code>
+</pays>
+
+<pays>
+  <nom>Peru</nom>
+  <code>PE</code>
+  <montagne>
+    <nom>Alpamayo</nom>
+  </montagne>
+  <montagne>
+    <nom>Huascaran</nom>
+  </montagne>
+  <montagne>
+    <nom>Pico Rocarre</nom>
+  </montagne>
+  <montagne>
+    <nom>Ampato</nom>
+  </montagne>
+  <montagne>
+    <nom>Coropuna</nom>
+  </montagne>
+  <montagne>
+    <nom>Ausangate</nom>
+  </montagne>
+</pays>
+
+<pays>
+  <nom>French Guiana</nom>
+  <code>FGU</code>
+</pays>
+
+<pays>
+  <nom>Guyana</nom>
+  <code>GUY</code>
+</pays>
+
+<pays>
+  <nom>Suriname</nom>
+  <code>SME</code>
+</pays>
+
+<pays>
+  <nom>Venezuela</nom>
+  <code>YV</code>
+  <montagne>
+    <nom>Pico Bolivar</nom>
+  </montagne>
+</pays>
+
+<pays>
+  <nom>Ecuador</nom>
+  <code>EC</code>
+  <montagne>
+    <nom>Cayambe</nom>
+  </montagne>
+  <montagne>
+    <nom>Chimborazo</nom>
+  </montagne>
+  <montagne>
+    <nom>Cotopaxi</nom>
+  </montagne>
+</pays>
+
+<pays>
+  <nom>Falkland Islands</nom>
+  <code>FALK</code>
+</pays>
+
+<pays>
+  <nom>Algeria</nom>
+  <code>DZ</code>
+  <montagne>
+    <nom>Tahat</nom>
+  </montagne>
+</pays>
+
+<pays>
+  <nom>Libya</nom>
+  <code>LAR</code>
+</pays>
+
+<pays>
+  <nom>Mali</nom>
+  <code>RMM</code>
+</pays>
+
+<pays>
+  <nom>Mauritania</nom>
+  <code>RIM</code>
+</pays>
+
+<pays>
+  <nom>Morocco</nom>
+  <code>MA</code>
+  <montagne>
+    <nom>Djebel Aures</nom>
+  </montagne>
+  <montagne>
+    <nom>Tubkhal</nom>
+  </montagne>
+</pays>
+
+<pays>
+  <nom>Niger</nom>
+  <code>RN</code>
+  <montagne>
+    <nom>Mont Greboun</nom>
+  </montagne>
+  <montagne>
+    <nom>Tamgak</nom>
+  </montagne>
+</pays>
+
+<pays>
+  <nom>Tunisia</nom>
+  <code>TN</code>
+</pays>
+
+<pays>
+  <nom>Western Sahara</nom>
+  <code>WSA</code>
+</pays>
+
+<pays>
+  <nom>Angola</nom>
+  <code>ANG</code>
+</pays>
+
+<pays>
+  <nom>Congo</nom>
+  <code>RCB</code>
+</pays>
+
+<pays>
+  <nom>Namibia</nom>
+  <code>NAM</code>
+</pays>
+
+<pays>
+  <nom>Zaire</nom>
+  <code>ZRE</code>
+  <montagne>
+    <nom>Karisimbi</nom>
+  </montagne>
+  <montagne>
+    <nom>Ruwenzori</nom>
+  </montagne>
+</pays>
+
+<pays>
+  <nom>Zambia</nom>
+  <code>Z</code>
+</pays>
+
+<pays>
+  <nom>Benin</nom>
+  <code>BEN</code>
+</pays>
+
+<pays>
+  <nom>Burkina Faso</nom>
+  <code>BF</code>
+</pays>
+
+<pays>
+  <nom>Nigeria</nom>
+  <code>WAN</code>
+</pays>
+
+<pays>
+  <nom>Togo</nom>
+  <code>RT</code>
+</pays>
+
+<pays>
+  <nom>Botswana</nom>
+  <code>RB</code>
+</pays>
+
+<pays>
+  <nom>South Africa</nom>
+  <code>RSA</code>
+  <montagne>
+    <nom>Cathkin Peak</nom>
+  </montagne>
+</pays>
+
+<pays>
+  <nom>Zimbabwe</nom>
+  <code>ZW</code>
+</pays>
+
+<pays>
+  <nom>Cote dIvoire</nom>
+  <code>CI</code>
+</pays>
+
+<pays>
+  <nom>Ghana</nom>
+  <code>GH</code>
+</pays>
+
+<pays>
+  <nom>Burundi</nom>
+  <code>BI</code>
+</pays>
+
+<pays>
+  <nom>Rwanda</nom>
+  <code>RWA</code>
+  <montagne>
+    <nom>Karisimbi</nom>
+  </montagne>
+</pays>
+
+<pays>
+  <nom>Tanzania</nom>
+  <code>EAT</code>
+  <montagne>
+    <nom>Meru</nom>
+  </montagne>
+  <montagne>
+    <nom>Kilimanjaro</nom>
+  </montagne>
+  <montagne>
+    <nom>Mawenzi</nom>
+  </montagne>
+</pays>
+
+<pays>
+  <nom>Cameroon</nom>
+  <code>CAM</code>
+  <montagne>
+    <nom>Fako</nom>
+  </montagne>
+</pays>
+
+<pays>
+  <nom>Central African Republic</nom>
+  <code>RCA</code>
+</pays>
+
+<pays>
+  <nom>Chad</nom>
+  <code>TCH</code>
+  <montagne>
+    <nom>Emi Kussi</nom>
+  </montagne>
+</pays>
+
+<pays>
+  <nom>Equatorial Guinea</nom>
+  <code>GQ</code>
+  <montagne>
+    <nom>Pico Basile</nom>
+  </montagne>
+</pays>
+
+<pays>
+  <nom>Gabon</nom>
+  <code>G</code>
+</pays>
+
+<pays>
+  <nom>Cape Verde</nom>
+  <code>CV</code>
+  <montagne>
+    <nom>Fogo</nom>
+  </montagne>
+</pays>
+
+<pays>
+  <nom>Sudan</nom>
+  <code>SUD</code>
+  <montagne>
+    <nom>Jabal Marra</nom>
+  </montagne>
+</pays>
+
+<pays>
+  <nom>Comoros</nom>
+  <code>COM</code>
+</pays>
+
+<pays>
+  <nom>Guinea</nom>
+  <code>RG</code>
+</pays>
+
+<pays>
+  <nom>Liberia</nom>
+  <code>LB</code>
+</pays>
+
+<pays>
+  <nom>Djibouti</nom>
+  <code>DJI</code>
+</pays>
+
+<pays>
+  <nom>Eritrea</nom>
+  <code>ER</code>
+</pays>
+
+<pays>
+  <nom>Ethiopia</nom>
+  <code>ETH</code>
+  <montagne>
+    <nom>Ras Daschan Terara</nom>
+  </montagne>
+</pays>
+
+<pays>
+  <nom>Somalia</nom>
+  <code>SP</code>
+</pays>
+
+<pays>
+  <nom>Kenya</nom>
+  <code>EAK</code>
+  <montagne>
+    <nom>Kenia</nom>
+  </montagne>
+  <montagne>
+    <nom>Elgon</nom>
+  </montagne>
+</pays>
+
+<pays>
+  <nom>Gambia</nom>
+  <code>WAG</code>
+</pays>
+
+<pays>
+  <nom>Senegal</nom>
+  <code>SN</code>
+</pays>
+
+<pays>
+  <nom>Guinea-Bissau</nom>
+  <code>GNB</code>
+</pays>
+
+<pays>
+  <nom>Sierra Leone</nom>
+  <code>WAL</code>
+</pays>
+
+<pays>
+  <nom>Uganda</nom>
+  <code>EAU</code>
+  <montagne>
+    <nom>Elgon</nom>
+  </montagne>
+  <montagne>
+    <nom>Ruwenzori</nom>
+  </montagne>
+</pays>
+
+<pays>
+  <nom>Lesotho</nom>
+  <code>LS</code>
+  <montagne>
+    <nom>Thabana Ntlenyana</nom>
+  </montagne>
+</pays>
+
+<pays>
+  <nom>Madagascar</nom>
+  <code>RM</code>
+  <montagne>
+    <nom>Tsiafajavona</nom>
+  </montagne>
+  <montagne>
+    <nom>Tsaratanana</nom>
+  </montagne>
+  <montagne>
+    <nom>Andringitra</nom>
+  </montagne>
+</pays>
+
+<pays>
+  <nom>Malawi</nom>
+  <code>MW</code>
+</pays>
+
+<pays>
+  <nom>Mozambique</nom>
+  <code>MOC</code>
+</pays>
+
+<pays>
+  <nom>Mauritius</nom>
+  <code>MS</code>
+</pays>
+
+<pays>
+  <nom>Mayotte</nom>
+  <code>MAYO</code>
+</pays>
+
+<pays>
+  <nom>Swaziland</nom>
+  <code>SD</code>
+</pays>
+
+<pays>
+  <nom>Reunion</nom>
+  <code>REUN</code>
+  <montagne>
+    <nom>Piton de la Fournaise</nom>
+  </montagne>
+  <montagne>
+    <nom>Piton des Neiges</nom>
+  </montagne>
+</pays>
+
+<pays>
+  <nom>Saint Helena</nom>
+  <code>HELX</code>
+  <montagne>
+    <nom>Queen Marys Peak</nom>
+  </montagne>
+</pays>
+
+<pays>
+  <nom>Sao Tome and Principe</nom>
+  <code>STP</code>
+  <montagne>
+    <nom>Pico de Sao Tome</nom>
+  </montagne>
+</pays>
+
+<pays>
+  <nom>Seychelles</nom>
+  <code>SY</code>
+</pays>
+
+<pays>
+  <nom>Albania</nom>
+  <code>AL</code>
+  <montagne>
+    <nom>Jezerce</nom>
+  </montagne>
+  <montagne>
+    <nom>Korab</nom>
+  </montagne>
+</pays>
+
+<pays>
+  <nom>Greece</nom>
+  <code>GR</code>
+  <montagne>
+    <nom>Olymp</nom>
+  </montagne>
+  <montagne>
+    <nom>Psiloritis</nom>
+  </montagne>
+  <montagne>
+    <nom>Olymp</nom>
+  </montagne>
+</pays>
+
+<pays>
+  <nom>Macedonia</nom>
+  <code>MK</code>
+  <montagne>
+    <nom>Korab</nom>
+  </montagne>
+</pays>
+
+<pays>
+  <nom>Serbia</nom>
+  <code>SRB</code>
+</pays>
+
+<pays>
+  <nom>Montenegro</nom>
+  <code>MNE</code>
+</pays>
+
+<pays>
+  <nom>Kosovo</nom>
+  <code>KOS</code>
+</pays>
+
+<pays>
+  <nom>Andorra</nom>
+  <code>AND</code>
+</pays>
+
+<pays>
+  <nom>France</nom>
+  <code>F</code>
+  <montagne>
+    <nom>Grand Ballon</nom>
+  </montagne>
+  <montagne>
+    <nom>Puy De Dome</nom>
+  </montagne>
+  <montagne>
+    <nom>Puy de Sancy</nom>
+  </montagne>
+  <montagne>
+    <nom>Monte Cinto</nom>
+  </montagne>
+  <montagne>
+    <nom>Grand Ballon</nom>
+  </montagne>
+  <montagne>
+    <nom>Vignemale</nom>
+  </montagne>
+  <montagne>
+    <nom>Barre des Ecrins</nom>
+  </montagne>
+  <montagne>
+    <nom>Mont Blanc</nom>
+  </montagne>
+</pays>
+
+<pays>
+  <nom>Spain</nom>
+  <code>E</code>
+  <montagne>
+    <nom>Mulhacen</nom>
+  </montagne>
+  <montagne>
+    <nom>Moncayo</nom>
+  </montagne>
+  <montagne>
+    <nom>Pico de Aneto</nom>
+  </montagne>
+  <montagne>
+    <nom>Vignemale</nom>
+  </montagne>
+  <montagne>
+    <nom>Torre de Cerredo</nom>
+  </montagne>
+  <montagne>
+    <nom>Pico de Teide</nom>
+  </montagne>
+  <montagne>
+    <nom>Pico de los Nieves</nom>
+  </montagne>
+  <montagne>
+    <nom>Roque de los Muchachos</nom>
+  </montagne>
+  <montagne>
+    <nom>Moncayo</nom>
+  </montagne>
+  <montagne>
+    <nom>Pico de Almanzor</nom>
+  </montagne>
+  <montagne>
+    <nom>Torre de Cerredo</nom>
+  </montagne>
+</pays>
+
+<pays>
+  <nom>Austria</nom>
+  <code>A</code>
+  <montagne>
+    <nom>Grossglockner</nom>
+  </montagne>
+  <montagne>
+    <nom>Hochgolling</nom>
+  </montagne>
+  <montagne>
+    <nom>Hochgolling</nom>
+  </montagne>
+  <montagne>
+    <nom>Zugspitze</nom>
+  </montagne>
+</pays>
+
+<pays>
+  <nom>Czech Republic</nom>
+  <code>CZ</code>
+  <montagne>
+    <nom>Schneekoppe</nom>
+  </montagne>
+</pays>
+
+<pays>
+  <nom>Germany</nom>
+  <code>D</code>
+  <montagne>
+    <nom>Feldberg</nom>
+  </montagne>
+  <montagne>
+    <nom>Grosser Arber</nom>
+  </montagne>
+  <montagne>
+    <nom>Zugspitze</nom>
+  </montagne>
+  <montagne>
+    <nom>Brocken</nom>
+  </montagne>
+</pays>
+
+<pays>
+  <nom>Hungary</nom>
+  <code>H</code>
+</pays>
+
+<pays>
+  <nom>Italy</nom>
+  <code>I</code>
+  <montagne>
+    <nom>Gran Sasso</nom>
+  </montagne>
+  <montagne>
+    <nom>Vesuv</nom>
+  </montagne>
+  <montagne>
+    <nom>Monte Falterona</nom>
+  </montagne>
+  <montagne>
+    <nom>Monte Rosa</nom>
+  </montagne>
+  <montagne>
+    <nom>Piz Bernina</nom>
+  </montagne>
+  <montagne>
+    <nom>GranParadiso</nom>
+  </montagne>
+  <montagne>
+    <nom>Etna</nom>
+  </montagne>
+  <montagne>
+    <nom>Monte Falterona</nom>
+  </montagne>
+  <montagne>
+    <nom>Marmolata</nom>
+  </montagne>
+  <montagne>
+    <nom>GranParadiso</nom>
+  </montagne>
+  <montagne>
+    <nom>Matterhorn</nom>
+  </montagne>
+  <montagne>
+    <nom>Mont Blanc</nom>
+  </montagne>
+  <montagne>
+    <nom>Monte Rosa</nom>
+  </montagne>
+  <montagne>
+    <nom>Marmolata</nom>
+  </montagne>
+</pays>
+
+<pays>
+  <nom>Liechtenstein</nom>
+  <code>FL</code>
+</pays>
+
+<pays>
+  <nom>Slovakia</nom>
+  <code>SK</code>
+  <montagne>
+    <nom>GerlachovskyStit</nom>
+  </montagne>
+</pays>
+
+<pays>
+  <nom>Slovenia</nom>
+  <code>SLO</code>
+</pays>
+
+<pays>
+  <nom>Switzerland</nom>
+  <code>CH</code>
+  <montagne>
+    <nom>Finsteraarhorn</nom>
+  </montagne>
+  <montagne>
+    <nom>Crap_Sogn_Gion</nom>
+  </montagne>
+  <montagne>
+    <nom>Piz Bernina</nom>
+  </montagne>
+  <montagne>
+    <nom>Finsteraarhorn</nom>
+  </montagne>
+  <montagne>
+    <nom>GrandCombin</nom>
+  </montagne>
+  <montagne>
+    <nom>Matterhorn</nom>
+  </montagne>
+  <montagne>
+    <nom>Monte Rosa</nom>
+  </montagne>
+</pays>
+
+<pays>
+  <nom>Belarus</nom>
+  <code>BY</code>
+</pays>
+
+<pays>
+  <nom>Latvia</nom>
+  <code>LV</code>
+</pays>
+
+<pays>
+  <nom>Lithuania</nom>
+  <code>LT</code>
+</pays>
+
+<pays>
+  <nom>Poland</nom>
+  <code>PL</code>
+  <montagne>
+    <nom>Schneekoppe</nom>
+  </montagne>
+</pays>
+
+<pays>
+  <nom>Ukraine</nom>
+  <code>UA</code>
+</pays>
+
+<pays>
+  <nom>Russia</nom>
+  <code>R</code>
+  <montagne>
+    <nom>Elbrus</nom>
+  </montagne>
+  <montagne>
+    <nom>Kljutschewskaja Sopka</nom>
+  </montagne>
+  <montagne>
+    <nom>Bjelucha</nom>
+  </montagne>
+  <montagne>
+    <nom>Zhima</nom>
+  </montagne>
+  <montagne>
+    <nom>Narodnaja</nom>
+  </montagne>
+  <montagne>
+    <nom>Kasbek</nom>
+  </montagne>
+</pays>
+
+<pays>
+  <nom>Belgium</nom>
+  <code>B</code>
+</pays>
+
+<pays>
+  <nom>Luxembourg</nom>
+  <code>L</code>
+</pays>
+
+<pays>
+  <nom>Netherlands</nom>
+  <code>NL</code>
+</pays>
+
+<pays>
+  <nom>Bosnia and Herzegovina</nom>
+  <code>BIH</code>
+</pays>
+
+<pays>
+  <nom>Croatia</nom>
+  <code>HR</code>
+</pays>
+
+<pays>
+  <nom>Bulgaria</nom>
+  <code>BG</code>
+  <montagne>
+    <nom>Musala</nom>
+  </montagne>
+</pays>
+
+<pays>
+  <nom>Romania</nom>
+  <code>RO</code>
+  <montagne>
+    <nom>Moldoveanu</nom>
+  </montagne>
+  <montagne>
+    <nom>Moldoveanu</nom>
+  </montagne>
+  <montagne>
+    <nom>Moldoveanu</nom>
+  </montagne>
+</pays>
+
+<pays>
+  <nom>Turkey</nom>
+  <code>TR</code>
+  <montagne>
+    <nom>Ararat</nom>
+  </montagne>
+  <montagne>
+    <nom>Demirkazik</nom>
+  </montagne>
+</pays>
+
+<pays>
+  <nom>Denmark</nom>
+  <code>DK</code>
+</pays>
+
+<pays>
+  <nom>Estonia</nom>
+  <code>EW</code>
+</pays>
+
+<pays>
+  <nom>Faroe Islands</nom>
+  <code>FARX</code>
+</pays>
+
+<pays>
+  <nom>Finland</nom>
+  <code>SF</code>
+  <montagne>
+    <nom>Haltiatunturi</nom>
+  </montagne>
+</pays>
+
+<pays>
+  <nom>Norway</nom>
+  <code>N</code>
+  <montagne>
+    <nom>Joekul</nom>
+  </montagne>
+  <montagne>
+    <nom>Sulitjelma</nom>
+  </montagne>
+  <montagne>
+    <nom>Galdhoeppig</nom>
+  </montagne>
+  <montagne>
+    <nom>Glittertind</nom>
+  </montagne>
+  <montagne>
+    <nom>Snoehetta</nom>
+  </montagne>
+  <montagne>
+    <nom>Jostedalsbre</nom>
+  </montagne>
+</pays>
+
+<pays>
+  <nom>Sweden</nom>
+  <code>S</code>
+  <montagne>
+    <nom>Kebnekaise</nom>
+  </montagne>
+  <montagne>
+    <nom>Portefjaellen</nom>
+  </montagne>
+  <montagne>
+    <nom>Sarektjokko</nom>
+  </montagne>
+  <montagne>
+    <nom>Sulitjelma</nom>
+  </montagne>
+  <montagne>
+    <nom>Tarrekaise</nom>
+  </montagne>
+</pays>
+
+<pays>
+  <nom>Monaco</nom>
+  <code>MC</code>
+</pays>
+
+<pays>
+  <nom>Gibraltar</nom>
+  <code>GBZ</code>
+</pays>
+
+<pays>
+  <nom>Guernsey</nom>
+  <code>GBG</code>
+</pays>
+
+<pays>
+  <nom>Holy See</nom>
+  <code>V</code>
+</pays>
+
+<pays>
+  <nom>Iceland</nom>
+  <code>IS</code>
+  <montagne>
+    <nom>Oeraefajoekull</nom>
+  </montagne>
+  <montagne>
+    <nom>Snoefell</nom>
+  </montagne>
+</pays>
+
+<pays>
+  <nom>Ireland</nom>
+  <code>IRL</code>
+</pays>
+
+<pays>
+  <nom>San Marino</nom>
+  <code>RSM</code>
+</pays>
+
+<pays>
+  <nom>Jersey</nom>
+  <code>GBJ</code>
+</pays>
+
+<pays>
+  <nom>Malta</nom>
+  <code>M</code>
+</pays>
+
+<pays>
+  <nom>Man</nom>
+  <code>GBM</code>
+</pays>
+
+<pays>
+  <nom>Moldova</nom>
+  <code>MD</code>
+</pays>
+
+<pays>
+  <nom>Portugal</nom>
+  <code>P</code>
+  <montagne>
+    <nom>Pico</nom>
+  </montagne>
+  <montagne>
+    <nom>Torre de Estrela</nom>
+  </montagne>
+  <montagne>
+    <nom>Pico Ruivo</nom>
+  </montagne>
+</pays>
+
+<pays>
+  <nom>Svalbard</nom>
+  <code>SVAX</code>
+</pays>
+
+<pays>
+  <nom>United Kingdom</nom>
+  <code>GB</code>
+  <montagne>
+    <nom>Ben Nevis</nom>
+  </montagne>
+</pays>
+
+<pays>
+  <nom>Afghanistan</nom>
+  <code>AFG</code>
+  <montagne>
+    <nom>Tirich Mir</nom>
+  </montagne>
+</pays>
+
+<pays>
+  <nom>China</nom>
+  <code>TJ</code>
+  <montagne>
+    <nom>Changbai Shan</nom>
+  </montagne>
+  <montagne>
+    <nom>Cho Oyu</nom>
+  </montagne>
+  <montagne>
+    <nom>Kailash</nom>
+  </montagne>
+  <montagne>
+    <nom>Lhotse</nom>
+  </montagne>
+  <montagne>
+    <nom>Makalu</nom>
+  </montagne>
+  <montagne>
+    <nom>Mount Everest</nom>
+  </montagne>
+  <montagne>
+    <nom>Shishapangma</nom>
+  </montagne>
+  <montagne>
+    <nom>Broad Peak</nom>
+  </montagne>
+  <montagne>
+    <nom>Gasherbrum I</nom>
+  </montagne>
+  <montagne>
+    <nom>Gasherbrum II</nom>
+  </montagne>
+  <montagne>
+    <nom>K2</nom>
+  </montagne>
+  <montagne>
+    <nom>Pik Pobeda</nom>
+  </montagne>
+</pays>
+
+<pays>
+  <nom>Iran</nom>
+  <code>IR</code>
+  <montagne>
+    <nom>Sabalan</nom>
+  </montagne>
+  <montagne>
+    <nom>Zard Kuh</nom>
+  </montagne>
+  <montagne>
+    <nom>Damavand</nom>
+  </montagne>
+</pays>
+
+<pays>
+  <nom>Pakistan</nom>
+  <code>PK</code>
+  <montagne>
+    <nom>Broad Peak</nom>
+  </montagne>
+  <montagne>
+    <nom>Gasherbrum I</nom>
+  </montagne>
+  <montagne>
+    <nom>Gasherbrum II</nom>
+  </montagne>
+  <montagne>
+    <nom>K2</nom>
+  </montagne>
+  <montagne>
+    <nom>Nanga Parbat</nom>
+  </montagne>
+</pays>
+
+<pays>
+  <nom>Tajikistan</nom>
+  <code>TAD</code>
+  <montagne>
+    <nom>Pik Karl-Marx</nom>
+  </montagne>
+  <montagne>
+    <nom>Pik Kommunizma</nom>
+  </montagne>
+  <montagne>
+    <nom>Pik Lenina</nom>
+  </montagne>
+  <montagne>
+    <nom>Pik Moskva</nom>
+  </montagne>
+  <montagne>
+    <nom>Pik Revoluzija</nom>
+  </montagne>
+</pays>
+
+<pays>
+  <nom>Turkmenistan</nom>
+  <code>TM</code>
+</pays>
+
+<pays>
+  <nom>Uzbekistan</nom>
+  <code>UZB</code>
+</pays>
+
+<pays>
+  <nom>Armenia</nom>
+  <code>ARM</code>
+</pays>
+
+<pays>
+  <nom>Georgia</nom>
+  <code>GE</code>
+  <montagne>
+    <nom>Kasbek</nom>
+  </montagne>
+</pays>
+
+<pays>
+  <nom>Azerbaijan</nom>
+  <code>AZ</code>
+</pays>
+
+<pays>
+  <nom>Bahrain</nom>
+  <code>BRN</code>
+</pays>
+
+<pays>
+  <nom>Bangladesh</nom>
+  <code>BD</code>
+</pays>
+
+<pays>
+  <nom>Myanmar</nom>
+  <code>MYA</code>
+</pays>
+
+<pays>
+  <nom>India</nom>
+  <code>IND</code>
+  <montagne>
+    <nom>Kangchendzonga</nom>
+  </montagne>
+  <montagne>
+    <nom>Dodabetta</nom>
+  </montagne>
+  <montagne>
+    <nom>Nanda Devi</nom>
+  </montagne>
+</pays>
+
+<pays>
+  <nom>Bhutan</nom>
+  <code>BHT</code>
+</pays>
+
+<pays>
+  <nom>Brunei</nom>
+  <code>BRU</code>
+</pays>
+
+<pays>
+  <nom>Malaysia</nom>
+  <code>MAL</code>
+  <montagne>
+    <nom>Tahan</nom>
+  </montagne>
+  <montagne>
+    <nom>Tahan</nom>
+  </montagne>
+  <montagne>
+    <nom>Kinabalu</nom>
+  </montagne>
+</pays>
+
+<pays>
+  <nom>Laos</nom>
+  <code>LAO</code>
+</pays>
+
+<pays>
+  <nom>Thailand</nom>
+  <code>THA</code>
+</pays>
+
+<pays>
+  <nom>Cambodia</nom>
+  <code>K</code>
+</pays>
+
+<pays>
+  <nom>Vietnam</nom>
+  <code>VN</code>
+</pays>
+
+<pays>
+  <nom>Kazakstan</nom>
+  <code>KAZ</code>
+  <montagne>
+    <nom>Bjelucha</nom>
+  </montagne>
+</pays>
+
+<pays>
+  <nom>North Korea</nom>
+  <code>NOK</code>
+  <montagne>
+    <nom>Changbai Shan</nom>
+  </montagne>
+</pays>
+
+<pays>
+  <nom>Kyrgyzstan</nom>
+  <code>KGZ</code>
+  <montagne>
+    <nom>Pik Chan-Tengri</nom>
+  </montagne>
+  <montagne>
+    <nom>Pik Lenina</nom>
+  </montagne>
+  <montagne>
+    <nom>Pik Pobeda</nom>
+  </montagne>
+</pays>
+
+<pays>
+  <nom>Hong Kong</nom>
+  <code>HONX</code>
+</pays>
+
+<pays>
+  <nom>Macau</nom>
+  <code>MACX</code>
+</pays>
+
+<pays>
+  <nom>Mongolia</nom>
+  <code>MNG</code>
+</pays>
+
+<pays>
+  <nom>Nepal</nom>
+  <code>NEP</code>
+  <montagne>
+    <nom>Annapurna</nom>
+  </montagne>
+  <montagne>
+    <nom>Cho Oyu</nom>
+  </montagne>
+  <montagne>
+    <nom>Dhaulagiri</nom>
+  </montagne>
+  <montagne>
+    <nom>Kangchendzonga</nom>
+  </montagne>
+  <montagne>
+    <nom>Lhotse</nom>
+  </montagne>
+  <montagne>
+    <nom>Makalu</nom>
+  </montagne>
+  <montagne>
+    <nom>Manaslu</nom>
+  </montagne>
+  <montagne>
+    <nom>Mount Everest</nom>
+  </montagne>
+</pays>
+
+<pays>
+  <nom>Christmas Island</nom>
+  <code>XMAS</code>
+</pays>
+
+<pays>
+  <nom>Cocos Islands</nom>
+  <code>COCO</code>
+</pays>
+
+<pays>
+  <nom>Cyprus</nom>
+  <code>CY</code>
+  <montagne>
+    <nom>Olympos</nom>
+  </montagne>
+</pays>
+
+<pays>
+  <nom>Gaza Strip</nom>
+  <code>GAZA</code>
+</pays>
+
+<pays>
+  <nom>Israel</nom>
+  <code>IL</code>
+</pays>
+
+<pays>
+  <nom>Egypt</nom>
+  <code>ET</code>
+  <montagne>
+    <nom>Jabal Katrina</nom>
+  </montagne>
+</pays>
+
+<pays>
+  <nom>Indonesia</nom>
+  <code>RI</code>
+  <montagne>
+    <nom>Gunung Agung</nom>
+  </montagne>
+  <montagne>
+    <nom>Gunung Binaiya</nom>
+  </montagne>
+  <montagne>
+    <nom>Kerinci</nom>
+  </montagne>
+  <montagne>
+    <nom>Krakatau</nom>
+  </montagne>
+  <montagne>
+    <nom>Leuser</nom>
+  </montagne>
+  <montagne>
+    <nom>Merapi</nom>
+  </montagne>
+  <montagne>
+    <nom>Puncak Jaya</nom>
+  </montagne>
+  <montagne>
+    <nom>Rantekombola</nom>
+  </montagne>
+  <montagne>
+    <nom>Rinjani</nom>
+  </montagne>
+  <montagne>
+    <nom>Semeru</nom>
+  </montagne>
+  <montagne>
+    <nom>Tambora</nom>
+  </montagne>
+</pays>
+
+<pays>
+  <nom>Timor-Leste</nom>
+  <code>TL</code>
+  <montagne>
+    <nom>Tatamailau</nom>
+  </montagne>
+</pays>
+
+<pays>
+  <nom>Papua New Guinea</nom>
+  <code>PNG</code>
+  <montagne>
+    <nom>Mt. Balbi</nom>
+  </montagne>
+  <montagne>
+    <nom>Mt. Giluwe</nom>
+  </montagne>
+  <montagne>
+    <nom>Mt. Wilhelm</nom>
+  </montagne>
+</pays>
+
+<pays>
+  <nom>Iraq</nom>
+  <code>IRQ</code>
+</pays>
+
+<pays>
+  <nom>Jordan</nom>
+  <code>JOR</code>
+</pays>
+
+<pays>
+  <nom>Kuwait</nom>
+  <code>KWT</code>
+</pays>
+
+<pays>
+  <nom>Saudi Arabia</nom>
+  <code>SA</code>
+</pays>
+
+<pays>
+  <nom>Syria</nom>
+  <code>SYR</code>
+</pays>
+
+<pays>
+  <nom>Lebanon</nom>
+  <code>RL</code>
+  <montagne>
+    <nom>Jabal Lubnan</nom>
+  </montagne>
+</pays>
+
+<pays>
+  <nom>West Bank</nom>
+  <code>WEST</code>
+</pays>
+
+<pays>
+  <nom>Japan</nom>
+  <code>J</code>
+  <montagne>
+    <nom>Hotaka-Dake</nom>
+  </montagne>
+  <montagne>
+    <nom>Asahi-Dake</nom>
+  </montagne>
+  <montagne>
+    <nom>Hotaka-Dake</nom>
+  </montagne>
+  <montagne>
+    <nom>Fujisan</nom>
+  </montagne>
+  <montagne>
+    <nom>Fujisan</nom>
+  </montagne>
+</pays>
+
+<pays>
+  <nom>South Korea</nom>
+  <code>ROK</code>
+</pays>
+
+<pays>
+  <nom>Maldives</nom>
+  <code>MV</code>
+</pays>
+
+<pays>
+  <nom>Oman</nom>
+  <code>OM</code>
+</pays>
+
+<pays>
+  <nom>United Arab Emirates</nom>
+  <code>UAE</code>
+</pays>
+
+<pays>
+  <nom>Yemen</nom>
+  <code>YE</code>
+  <montagne>
+    <nom>Jabal Shuayb</nom>
+  </montagne>
+</pays>
+
+<pays>
+  <nom>Philippines</nom>
+  <code>RP</code>
+  <montagne>
+    <nom>Kanlaon</nom>
+  </montagne>
+  <montagne>
+    <nom>Mantalingajan</nom>
+  </montagne>
+  <montagne>
+    <nom>Mount Apo</nom>
+  </montagne>
+  <montagne>
+    <nom>Pinatubo</nom>
+  </montagne>
+  <montagne>
+    <nom>Pulog</nom>
+  </montagne>
+</pays>
+
+<pays>
+  <nom>Qatar</nom>
+  <code>Q</code>
+</pays>
+
+<pays>
+  <nom>Singapore</nom>
+  <code>SGP</code>
+</pays>
+
+<pays>
+  <nom>Sri Lanka</nom>
+  <code>CL</code>
+  <montagne>
+    <nom>Pidurutalagala</nom>
+  </montagne>
+</pays>
+
+<pays>
+  <nom>Taiwan</nom>
+  <code>RC</code>
+  <montagne>
+    <nom>Yu Shan</nom>
+  </montagne>
+</pays>
+
+<pays>
+  <nom>Anguilla</nom>
+  <code>AXA</code>
+</pays>
+
+<pays>
+  <nom>Antigua and Barbuda</nom>
+  <code>AG</code>
+</pays>
+
+<pays>
+  <nom>Aruba</nom>
+  <code>ARU</code>
+</pays>
+
+<pays>
+  <nom>Bahamas</nom>
+  <code>BS</code>
+</pays>
+
+<pays>
+  <nom>Barbados</nom>
+  <code>BDS</code>
+</pays>
+
+<pays>
+  <nom>Belize</nom>
+  <code>BZ</code>
+</pays>
+
+<pays>
+  <nom>Guatemala</nom>
+  <code>GCA</code>
+  <montagne>
+    <nom>Tajumulco</nom>
+  </montagne>
+</pays>
+
+<pays>
+  <nom>Mexico</nom>
+  <code>MEX</code>
+  <montagne>
+    <nom>Nevado de Colima</nom>
+  </montagne>
+  <montagne>
+    <nom>Nevado de Toluca</nom>
+  </montagne>
+  <montagne>
+    <nom>Popocatepetl</nom>
+  </montagne>
+  <montagne>
+    <nom>Popocatepetl</nom>
+  </montagne>
+  <montagne>
+    <nom>Citlaltepetl (Pico de Orizaba)</nom>
+  </montagne>
+  <montagne>
+    <nom>Iztaccihuatl</nom>
+  </montagne>
+  <montagne>
+    <nom>Popocatepetl</nom>
+  </montagne>
+  <montagne>
+    <nom>Citlaltepetl (Pico de Orizaba)</nom>
+  </montagne>
+</pays>
+
+<pays>
+  <nom>Bermuda</nom>
+  <code>BERM</code>
+</pays>
+
+<pays>
+  <nom>British Virgin Islands</nom>
+  <code>BVIR</code>
+</pays>
+
+<pays>
+  <nom>Canada</nom>
+  <code>CDN</code>
+  <montagne>
+    <nom>Mt Columbia</nom>
+  </montagne>
+  <montagne>
+    <nom>Mt Columbia</nom>
+  </montagne>
+  <montagne>
+    <nom>Mt Fairweather</nom>
+  </montagne>
+  <montagne>
+    <nom>Mt Robson</nom>
+  </montagne>
+  <montagne>
+    <nom>Mt Waddington</nom>
+  </montagne>
+  <montagne>
+    <nom>Barbeau Peak</nom>
+  </montagne>
+  <montagne>
+    <nom>Mt. Odin</nom>
+  </montagne>
+  <montagne>
+    <nom>Mt. Babel</nom>
+  </montagne>
+  <montagne>
+    <nom>Mt Bona</nom>
+  </montagne>
+  <montagne>
+    <nom>Mt Logan</nom>
+  </montagne>
+  <montagne>
+    <nom>Mt St.Elias</nom>
+  </montagne>
+</pays>
+
+<pays>
+  <nom>United States</nom>
+  <code>USA</code>
+  <montagne>
+    <nom>Mt Blackburn</nom>
+  </montagne>
+  <montagne>
+    <nom>Mt Bona</nom>
+  </montagne>
+  <montagne>
+    <nom>Mt Fairweather</nom>
+  </montagne>
+  <montagne>
+    <nom>Mt McKinley</nom>
+  </montagne>
+  <montagne>
+    <nom>Mt Redoubt</nom>
+  </montagne>
+  <montagne>
+    <nom>Mt St.Elias</nom>
+  </montagne>
+  <montagne>
+    <nom>Humphreys Peak</nom>
+  </montagne>
+  <montagne>
+    <nom>Boundary Peak</nom>
+  </montagne>
+  <montagne>
+    <nom>Mt Whitney</nom>
+  </montagne>
+  <montagne>
+    <nom>Mt Elbert</nom>
+  </montagne>
+  <montagne>
+    <nom>Pikes Peak</nom>
+  </montagne>
+  <montagne>
+    <nom>Haleakala</nom>
+  </montagne>
+  <montagne>
+    <nom>Mauna Kea</nom>
+  </montagne>
+  <montagne>
+    <nom>Mauna Loa</nom>
+  </montagne>
+  <montagne>
+    <nom>Borah Peak</nom>
+  </montagne>
+  <montagne>
+    <nom>Granite Peak</nom>
+  </montagne>
+  <montagne>
+    <nom>Boundary Peak</nom>
+  </montagne>
+  <montagne>
+    <nom>Mt Washington</nom>
+  </montagne>
+  <montagne>
+    <nom>Wheeler Peak</nom>
+  </montagne>
+  <montagne>
+    <nom>Mt Marcy</nom>
+  </montagne>
+  <montagne>
+    <nom>Mt Mitchell</nom>
+  </montagne>
+  <montagne>
+    <nom>Mt Hood</nom>
+  </montagne>
+  <montagne>
+    <nom>Harney Peak</nom>
+  </montagne>
+  <montagne>
+    <nom>Clingmans Dome</nom>
+  </montagne>
+  <montagne>
+    <nom>Guadalupe Peak</nom>
+  </montagne>
+  <montagne>
+    <nom>Kings Peak</nom>
+  </montagne>
+  <montagne>
+    <nom>Mt Adams</nom>
+  </montagne>
+  <montagne>
+    <nom>Mt Rainier</nom>
+  </montagne>
+  <montagne>
+    <nom>Gannett Peak</nom>
+  </montagne>
+</pays>
+
+<pays>
+  <nom>Cayman Islands</nom>
+  <code>CAYM</code>
+</pays>
+
+<pays>
+  <nom>Costa Rica</nom>
+  <code>CR</code>
+  <montagne>
+    <nom>Cerro Chirripo</nom>
+  </montagne>
+  <montagne>
+    <nom>Irazu</nom>
+  </montagne>
+  <montagne>
+    <nom>Cerro Chirripo</nom>
+  </montagne>
+</pays>
+
+<pays>
+  <nom>Nicaragua</nom>
+  <code>NIC</code>
+  <montagne>
+    <nom>Concepcion</nom>
+  </montagne>
+</pays>
+
+<pays>
+  <nom>Panama</nom>
+  <code>PA</code>
+</pays>
+
+<pays>
+  <nom>Cuba</nom>
+  <code>C</code>
+  <montagne>
+    <nom>Pico Turquino</nom>
+  </montagne>
+  <montagne>
+    <nom>Pico Turquino</nom>
+  </montagne>
+</pays>
+
+<pays>
+  <nom>Dominica</nom>
+  <code>WD</code>
+  <montagne>
+    <nom>Morne Diablotins</nom>
+  </montagne>
+</pays>
+
+<pays>
+  <nom>Dominican Republic</nom>
+  <code>DOM</code>
+  <montagne>
+    <nom>Pico Duarte</nom>
+  </montagne>
+</pays>
+
+<pays>
+  <nom>Haiti</nom>
+  <code>RH</code>
+</pays>
+
+<pays>
+  <nom>El Salvador</nom>
+  <code>ES</code>
+</pays>
+
+<pays>
+  <nom>Honduras</nom>
+  <code>HCA</code>
+</pays>
+
+<pays>
+  <nom>Greenland</nom>
+  <code>GROX</code>
+</pays>
+
+<pays>
+  <nom>Grenada</nom>
+  <code>WG</code>
+</pays>
+
+<pays>
+  <nom>Guadeloupe</nom>
+  <code>GUAD</code>
+  <montagne>
+    <nom>La Soufriere</nom>
+  </montagne>
+</pays>
+
+<pays>
+  <nom>Jamaica</nom>
+  <code>JA</code>
+  <montagne>
+    <nom>Blue Mountain Peak</nom>
+  </montagne>
+</pays>
+
+<pays>
+  <nom>Martinique</nom>
+  <code>MART</code>
+  <montagne>
+    <nom>Pelee</nom>
+  </montagne>
+</pays>
+
+<pays>
+  <nom>Montserrat</nom>
+  <code>MNTS</code>
+  <montagne>
+    <nom>Soufriere Hills</nom>
+  </montagne>
+</pays>
+
+<pays>
+  <nom>Netherlands Antilles</nom>
+  <code>NA</code>
+</pays>
+
+<pays>
+  <nom>Saint Martin</nom>
+  <code>SMAR</code>
+</pays>
+
+<pays>
+  <nom>Colombia</nom>
+  <code>CO</code>
+  <montagne>
+    <nom>Nevado del Ruiz</nom>
+  </montagne>
+  <montagne>
+    <nom>Nevado del Huila</nom>
+  </montagne>
+  <montagne>
+    <nom>Pico Cristobal Colon</nom>
+  </montagne>
+  <montagne>
+    <nom>Nevado del Ruiz</nom>
+  </montagne>
+</pays>
+
+<pays>
+  <nom>Puerto Rico</nom>
+  <code>PR</code>
+  <montagne>
+    <nom>Cerro de Punta</nom>
+  </montagne>
+</pays>
+
+<pays>
+  <nom>Saint Kitts and Nevis</nom>
+  <code>KN</code>
+</pays>
+
+<pays>
+  <nom>Saint Lucia</nom>
+  <code>WL</code>
+</pays>
+
+<pays>
+  <nom>Saint Pierre and Miquelon</nom>
+  <code>SPMI</code>
+</pays>
+
+<pays>
+  <nom>Saint Vincent and the Grenadines</nom>
+  <code>WV</code>
+  <montagne>
+    <nom>Soufriere</nom>
+  </montagne>
+</pays>
+
+<pays>
+  <nom>Trinidad and Tobago</nom>
+  <code>TT</code>
+</pays>
+
+<pays>
+  <nom>Turks and Caicos Islands</nom>
+  <code>TUCA</code>
+</pays>
+
+<pays>
+  <nom>Virgin Islands</nom>
+  <code>VIRG</code>
+</pays>
+
+<pays>
+  <nom>American Samoa</nom>
+  <code>AMSA</code>
+</pays>
+
+<pays>
+  <nom>Australia</nom>
+  <code>AUS</code>
+  <montagne>
+    <nom>Mt. Kosciuszko</nom>
+  </montagne>
+  <montagne>
+    <nom>Uluru</nom>
+  </montagne>
+  <montagne>
+    <nom>Mt. Bogong</nom>
+  </montagne>
+</pays>
+
+<pays>
+  <nom>Cook Islands</nom>
+  <code>COOK</code>
+</pays>
+
+<pays>
+  <nom>Fiji</nom>
+  <code>FJI</code>
+  <montagne>
+    <nom>Mt.Victoria</nom>
+  </montagne>
+</pays>
+

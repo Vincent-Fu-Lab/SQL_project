@@ -1,0 +1,251 @@
+<mondial>
+  <continent name="Africa">
+    <country code="ANG" name="Angola" population="10342899"/>
+    <country code="BEN" name="Benin" population="5709529"/>
+    <country code="BF" name="Burkina Faso" population="10623323"/>
+    <country code="BI" name="Burundi" population="5943057"/>
+    <country code="CAM" name="Cameroon" population="14261557"/>
+    <country code="CI" name="Cote dIvoire" population="14762445"/>
+    <country code="COM" name="Comoros" population="569237"/>
+    <country code="CV" name="Cape Verde" population="449066"/>
+    <country code="DJI" name="Djibouti" population="427642"/>
+    <country code="DZ" name="Algeria" population="29183032"/>
+    <country code="EAK" name="Kenya" population="28176686"/>
+    <country code="EAT" name="Tanzania" population="29058470"/>
+    <country code="EAU" name="Uganda" population="20158176"/>
+    <country code="ER" name="Eritrea" population="3427883"/>
+    <country code="ET" name="Egypt" population="63575107"/>
+    <country code="ETH" name="Ethiopia" population="57171662"/>
+    <country code="G" name="Gabon" population="1172798"/>
+    <country code="GH" name="Ghana" population="17698271"/>
+    <country code="GNB" name="Guinea-Bissau" population="1151330"/>
+    <country code="GQ" name="Equatorial Guinea" population="431282"/>
+    <country code="LAR" name="Libya" population="5445436"/>
+    <country code="LB" name="Liberia" population="2109789"/>
+    <country code="LS" name="Lesotho" population="1970781"/>
+    <country code="MA" name="Morocco" population="29779156"/>
+    <country code="MAYO" name="Mayotte" population="223765"/>
+    <country code="MOC" name="Mozambique" population="17877927"/>
+    <country code="MS" name="Mauritius" population="1140256"/>
+    <country code="MW" name="Malawi" population="9452844"/>
+    <country code="NAM" name="Namibia" population="1677243"/>
+    <country code="RB" name="Botswana" population="1477630"/>
+    <country code="RCA" name="Central African Republic" population="3274426"/>
+    <country code="RCB" name="Congo" population="2527841"/>
+    <country code="RG" name="Guinea" population="7411981"/>
+    <country code="RIM" name="Mauritania" population="2336048"/>
+    <country code="RM" name="Madagascar" population="13670507"/>
+    <country code="RMM" name="Mali" population="9653261"/>
+    <country code="RN" name="Niger" population="9113001"/>
+    <country code="RSA" name="South Africa" population="41743459"/>
+    <country code="RT" name="Togo" population="4570530"/>
+    <country code="RWA" name="Rwanda" population="6853359"/>
+    <country code="SD" name="Swaziland" population="998730"/>
+    <country code="SN" name="Senegal" population="9092749"/>
+    <country code="SP" name="Somalia" population="9639151"/>
+    <country code="STP" name="Sao Tome and Principe" population="144128"/>
+    <country code="SUD" name="Sudan" population="31547543"/>
+    <country code="SY" name="Seychelles" population="77575"/>
+    <country code="TCH" name="Chad" population="6976845"/>
+    <country code="TN" name="Tunisia" population="9019687"/>
+    <country code="WAG" name="Gambia" population="1204984"/>
+    <country code="WAL" name="Sierra Leone" population="4793121"/>
+    <country code="WAN" name="Nigeria" population="103912489"/>
+    <country code="WSA" name="Western Sahara" population="222631"/>
+    <country code="Z" name="Zambia" population="9159072"/>
+    <country code="ZRE" name="Zaire" population="46498539"/>
+    <country code="ZW" name="Zimbabwe" population="11271314"/>
+  </continent>
+  <continent name="America">
+    <country code="AG" name="Antigua and Barbuda" population="65647"/>
+    <country code="ARU" name="Aruba" population="103065"/>
+    <country code="AXA" name="Anguilla" population="14436"/>
+    <country code="BDS" name="Barbados" population="257030"/>
+    <country code="BOL" name="Bolivia" population="7165257"/>
+    <country code="BR" name="Brazil" population="162661214"/>
+    <country code="BS" name="Bahamas" population="259367"/>
+    <country code="BVIR" name="British Virgin Islands" population="24491"/>
+    <country code="BZ" name="Belize" population="219296"/>
+    <country code="C" name="Cuba" population="10951334"/>
+    <country code="CAYM" name="Cayman Islands" population="49035"/>
+    <country code="CDN" name="Canada" population="28820671"/>
+    <country code="CO" name="Colombia" population="36813161"/>
+    <country code="CR" name="Costa Rica" population="3463083"/>
+    <country code="DOM" name="Dominican Republic" population="8088881"/>
+    <country code="EC" name="Ecuador" population="11466291"/>
+    <country code="ES" name="El Salvador" population="5828987"/>
+    <country code="FALK" name="Falkland Islands" population="3140"/>
+    <country code="FGU" name="French Guiana" population="151187"/>
+    <country code="GCA" name="Guatemala" population="11277614"/>
+    <country code="GROX" name="Greenland" population="58203"/>
+    <country code="GUAD" name="Guadeloupe" population="407768"/>
+    <country code="GUY" name="Guyana" population="712091"/>
+    <country code="HCA" name="Honduras" population="5605193"/>
+    <country code="JA" name="Jamaica" population="2595275"/>
+    <country code="KN" name="Saint Kitts and Nevis" population="41369"/>
+    <country code="MART" name="Martinique" population="399151"/>
+    <country code="MEX" name="Mexico" population="95772462"/>
+    <country code="MNTS" name="Montserrat" population="5097"/>
+    <country code="NA" name="Netherlands Antilles" population="227049"/>
+    <country code="NIC" name="Nicaragua" population="4272352"/>
+    <country code="PA" name="Panama" population="2655094"/>
+    <country code="PE" name="Peru" population="24523408"/>
+    <country code="PR" name="Puerto Rico" population="3971020"/>
+    <country code="PY" name="Paraguay" population="5504146"/>
+    <country code="RA" name="Argentina" population="34672997"/>
+    <country code="RCH" name="Chile" population="14333258"/>
+    <country code="RH" name="Haiti" population="6731539"/>
+    <country code="ROU" name="Uruguay" population="3238952"/>
+    <country code="SMAR" name="Saint Martin" population="29820"/>
+    <country code="SME" name="Suriname" population="436418"/>
+    <country code="SPMI" name="Saint Pierre and Miquelon" population="6809"/>
+    <country code="TT" name="Trinidad and Tobago" population="1272385"/>
+    <country code="TUCA" name="Turks and Caicos Islands" population="22942"/>
+    <country code="USA" name="United States" population="266476278"/>
+    <country code="VIRG" name="Virgin Islands" population="97120"/>
+    <country code="WD" name="Dominica" population="82926"/>
+    <country code="WG" name="Grenada" population="94961"/>
+    <country code="WL" name="Saint Lucia" population="157862"/>
+    <country code="WV" name="Saint Vincent and the Grenadines" population="118344"/>
+    <country code="YV" name="Venezuela" population="21983188"/>
+  </continent>
+  <continent name="Asia">
+    <country code="AFG" name="Afghanistan" population="22664136"/>
+    <country code="ARM" name="Armenia" population="3463574"/>
+    <country code="AZ" name="Azerbaijan" population="7676953"/>
+    <country code="BD" name="Bangladesh" population="123062800"/>
+    <country code="BHT" name="Bhutan" population="1822625"/>
+    <country code="BRN" name="Bahrain" population="590042"/>
+    <country code="BRU" name="Brunei" population="299939"/>
+    <country code="CL" name="Sri Lanka" population="18553074"/>
+    <country code="GAZA" name="Gaza Strip" population="813332"/>
+    <country code="GE" name="Georgia" population="5219810"/>
+    <country code="HONX" name="Hong Kong" population="7055071"/>
+    <country code="IL" name="Israel" population="5421995"/>
+    <country code="IND" name="India" population="952107694"/>
+    <country code="IR" name="Iran" population="66094264"/>
+    <country code="IRQ" name="Iraq" population="21422292"/>
+    <country code="J" name="Japan" population="125449703"/>
+    <country code="JOR" name="Jordan" population="4212152"/>
+    <country code="K" name="Cambodia" population="10861218"/>
+    <country code="KAZ" name="Kazakstan" population="16916463"/>
+    <country code="KGZ" name="Kyrgyzstan" population="4529648"/>
+    <country code="KWT" name="Kuwait" population="1950047"/>
+    <country code="LAO" name="Laos" population="4975772"/>
+    <country code="MACX" name="Macau" population="496837"/>
+    <country code="MAL" name="Malaysia" population="19962893"/>
+    <country code="MNG" name="Mongolia" population="2496617"/>
+    <country code="MV" name="Maldives" population="270758"/>
+    <country code="MYA" name="Myanmar" population="45975625"/>
+    <country code="NEP" name="Nepal" population="22094033"/>
+    <country code="NOK" name="North Korea" population="23904124"/>
+    <country code="OM" name="Oman" population="2186548"/>
+    <country code="PK" name="Pakistan" population="129275660"/>
+    <country code="Q" name="Qatar" population="547761"/>
+    <country code="R" name="Russia" population="148178487"/>
+    <country code="RC" name="Taiwan" population="21465881"/>
+    <country code="RI" name="Indonesia" population="206611600"/>
+    <country code="RL" name="Lebanon" population="3776317"/>
+    <country code="ROK" name="South Korea" population="45482291"/>
+    <country code="RP" name="Philippines" population="74480848"/>
+    <country code="SA" name="Saudi Arabia" population="19409058"/>
+    <country code="SGP" name="Singapore" population="3396924"/>
+    <country code="SYR" name="Syria" population="15608648"/>
+    <country code="TAD" name="Tajikistan" population="5916373"/>
+    <country code="THA" name="Thailand" population="58851357"/>
+    <country code="TJ" name="China" population="1210004956"/>
+    <country code="TL" name="Timor-Leste" population="1131612"/>
+    <country code="TM" name="Turkmenistan" population="4149283"/>
+    <country code="TR" name="Turkey" population="62484478"/>
+    <country code="UAE" name="United Arab Emirates" population="3057337"/>
+    <country code="UZB" name="Uzbekistan" population="23418381"/>
+    <country code="VN" name="Vietnam" population="73976973"/>
+    <country code="WEST" name="West Bank" population="1427741"/>
+    <country code="YE" name="Yemen" population="13483178"/>
+  </continent>
+  <continent name="Australia/Oceania">
+    <country code="AMSA" name="American Samoa" population="65628"/>
+    <country code="AUS" name="Australia" population="18260863"/>
+    <country code="BERM" name="Bermuda" population="67837"/>
+    <country code="COCO" name="Cocos Islands" population="596"/>
+    <country code="COOK" name="Cook Islands" population="11870"/>
+    <country code="FJI" name="Fiji" population="782381"/>
+    <country code="FPOL" name="French Polynesia" population="287032"/>
+    <country code="FSM" name="Micronesia" population="125377"/>
+    <country code="GUAM" name="Guam" population="178430"/>
+    <country code="HELX" name="Saint Helena" population="7637"/>
+    <country code="KIR" name="Kiribati" population="80919"/>
+    <country code="MH" name="Marshall Islands" population="58363"/>
+    <country code="NAU" name="Nauru" population="10273"/>
+    <country code="NCA" name="New Caledonia" population="227436"/>
+    <country code="NIUE" name="Niue" population="1398"/>
+    <country code="NMIS" name="Northern Mariana Islands" population="88662"/>
+    <country code="NORF" name="Norfolk Island" population="2209"/>
+    <country code="NZ" name="New Zealand" population="3547983"/>
+    <country code="PAL" name="Palau" population="16952"/>
+    <country code="PITC" name="Pitcairn Islands" population="48"/>
+    <country code="PNG" name="Papua New Guinea" population="4394537"/>
+    <country code="REUN" name="Reunion" population="679198"/>
+    <country code="SLB" name="Solomon Islands" population="412902"/>
+    <country code="TO" name="Tonga" population="106466"/>
+    <country code="TUV" name="Tuvalu" population="10146"/>
+    <country code="VU" name="Vanuatu" population="177504"/>
+    <country code="WAFU" name="Wallis and Futuna" population="15289"/>
+    <country code="WS" name="Samoa" population="214384"/>
+    <country code="XMAS" name="Christmas Island" population="1402"/>
+  </continent>
+  <continent name="Europe">
+    <country code="A" name="Austria" population="8023244"/>
+    <country code="AL" name="Albania" population="3249136"/>
+    <country code="AND" name="Andorra" population="72766"/>
+    <country code="B" name="Belgium" population="10170241"/>
+    <country code="BG" name="Bulgaria" population="8612757"/>
+    <country code="BIH" name="Bosnia and Herzegovina" population="2656240"/>
+    <country code="BY" name="Belarus" population="10415973"/>
+    <country code="CH" name="Switzerland" population="7207060"/>
+    <country code="CY" name="Cyprus" population="744609"/>
+    <country code="CZ" name="Czech Republic" population="10321120"/>
+    <country code="D" name="Germany" population="83536115"/>
+    <country code="DK" name="Denmark" population="5249632"/>
+    <country code="E" name="Spain" population="39181114"/>
+    <country code="EW" name="Estonia" population="1459428"/>
+    <country code="F" name="France" population="58317450"/>
+    <country code="FARX" name="Faroe Islands" population="43857"/>
+    <country code="FL" name="Liechtenstein" population="31122"/>
+    <country code="GB" name="United Kingdom" population="58489975"/>
+    <country code="GBG" name="Guernsey" population="62920"/>
+    <country code="GBJ" name="Jersey" population="87848"/>
+    <country code="GBM" name="Man" population="73837"/>
+    <country code="GBZ" name="Gibraltar" population="28765"/>
+    <country code="GR" name="Greece" population="10538594"/>
+    <country code="H" name="Hungary" population="10002541"/>
+    <country code="HR" name="Croatia" population="5004112"/>
+    <country code="I" name="Italy" population="57460274"/>
+    <country code="IRL" name="Ireland" population="3566833"/>
+    <country code="IS" name="Iceland" population="270292"/>
+    <country code="KOS" name="Kosovo" population="1804838"/>
+    <country code="L" name="Luxembourg" population="415870"/>
+    <country code="LT" name="Lithuania" population="3646041"/>
+    <country code="LV" name="Latvia" population="2468982"/>
+    <country code="M" name="Malta" population="375576"/>
+    <country code="MC" name="Monaco" population="31719"/>
+    <country code="MD" name="Moldova" population="4463847"/>
+    <country code="MK" name="Macedonia" population="2104035"/>
+    <country code="MNE" name="Montenegro" population="672180"/>
+    <country code="N" name="Norway" population="4383807"/>
+    <country code="NL" name="Netherlands" population="15568034"/>
+    <country code="P" name="Portugal" population="9865114"/>
+    <country code="PL" name="Poland" population="38642565"/>
+    <country code="RO" name="Romania" population="21657162"/>
+    <country code="RSM" name="San Marino" population="24521"/>
+    <country code="S" name="Sweden" population="8900954"/>
+    <country code="SF" name="Finland" population="5105230"/>
+    <country code="SK" name="Slovakia" population="5374362"/>
+    <country code="SLO" name="Slovenia" population="1951443"/>
+    <country code="SRB" name="Serbia" population="7379339"/>
+    <country code="SVAX" name="Svalbard" population="2116"/>
+    <country code="UA" name="Ukraine" population="50864009"/>
+    <country code="V" name="Holy See" population="840"/>
+  </continent>
+</mondial>
+

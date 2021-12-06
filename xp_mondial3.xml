@@ -1,0 +1,1945 @@
+<mondial>
+  <province name="Trinidad and Tobago" capital="Port-of-Spain"/>
+  <province name="Turks and Caicos Islands" capital="Grand Turk"/>
+  <province name="Virgin Islands" capital="Charlotte Amalie"/>
+  <province name="American Samoa" capital="Pago Pago"/>
+  <province name="New South Wales" capital="Sydney">
+    <mountain name="Mt. Kosciuszko" height="2228" latitude="-36.5" longitude="148"/>
+  </province>
+  <province name="Northern Territory" capital="Darwin">
+    <mountain name="Uluru" height="869" latitude="-25.3" longitude="131"/>
+  </province>
+  <province name="Queensland" capital="Brisbane"/>
+  <province name="South Australia" capital="Adelaide"/>
+  <province name="Tasmania" capital="Hobart"/>
+  <province name="Victoria" capital="Melbourne">
+    <mountain name="Mt. Bogong" height="1986" latitude="-37" longitude="147.5"/>
+  </province>
+  <province name="Western Australia" capital="Perth"/>
+  <province name="Australia Capital Territory" capital="Canberra"/>
+  <province name="Cook Islands" capital="Avarua"/>
+  <province name="Fiji" capital="Suva">
+    <mountain name="Mt.Victoria" height="1323" latitude="-17.8" longitude="178"/>
+  </province>
+  <province name="French Polynesia" capital="Papeete">
+    <mountain name="Mont Orohena" height="2241" latitude="-17.6" longitude="-149.5"/>
+  </province>
+  <province name="Guam" capital="Agana"/>
+  <province name="Kiribati" capital="Tarawa"/>
+  <province name="Marshall Islands" capital="Majuro"/>
+  <province name="Micronesia" capital="Palikir"/>
+  <province name="Nauru" capital="Yaren"/>
+  <province name="New Caledonia" capital="Noumea"/>
+  <province name="New Zealand" capital="Wellington">
+    <mountain name="Mt. Cook" height="3754" latitude="-43.6" longitude="170.2"/>
+    <mountain name="Ruapehu" height="2797" latitude="-39.3" longitude="175.6"/>
+  </province>
+  <province name="Niue" capital="Alofi"/>
+  <province name="Norfolk Island" capital="Kingston"/>
+  <province name="Northern Mariana Islands" capital="Saipan"/>
+  <province name="Palau" capital="Melekeok"/>
+  <province name="Pitcairn Islands" capital="Adamstown"/>
+  <province name="Solomon Islands" capital="Honiara">
+    <mountain name="Popomanaseu" height="2335" latitude="-9.7" longitude="160.1"/>
+  </province>
+  <province name="Tonga" capital="Nukualofa"/>
+  <province name="Tuvalu" capital="Funafuti"/>
+  <province name="Vanuatu" capital="Port-Vila"/>
+  <province name="Wallis and Futuna" capital="Mata-Utu"/>
+  <province name="Samoa" capital="Apia">
+    <mountain name="Silisili" height="1858" latitude="-13.6" longitude="-172.4"/>
+  </province>
+  <province name="Buenos Aires" capital="La Plata"/>
+  <province name="Catamarca" capital="San Fernando del Valle de Catamarca"/>
+  <province name="Chaco" capital="Resistencia"/>
+  <province name="Chubut" capital="Rawson"/>
+  <province name="Cordoba" capital="Cordoba"/>
+  <province name="Corrientes" capital="Corrientes"/>
+  <province name="Entre Rios" capital="Parana"/>
+  <province name="Formosa" capital="Formosa"/>
+  <province name="Jujuy" capital="San Salvador de Jujuy"/>
+  <province name="La Pampa" capital="Santa Rosa"/>
+  <province name="La Rioja" capital="La Rioja">
+    <mountain name="Monte Pissis" height="6795" latitude="-27.8" longitude="-68.85"/>
+  </province>
+  <province name="Mendoza" capital="Mendoza">
+    <mountain name="Aconcagua" height="6962" latitude="-32.65" longitude="-70"/>
+    <mountain name="Tupungato" height="6550" latitude="-33.35" longitude="-69.87"/>
+  </province>
+  <province name="Misiones" capital="Posadas"/>
+  <province name="Neuquen" capital="Neuquen"/>
+  <province name="Rio Negro" capital="Viedma"/>
+  <province name="Salta" capital="Salta"/>
+  <province name="San Juan" capital="San Juan"/>
+  <province name="San Luis" capital="San Luis"/>
+  <province name="Santa Cruz" capital="Rio Gallegos"/>
+  <province name="Santa Fe" capital="Santa Fe"/>
+  <province name="Santiago de Estero" capital="Santiago del Estero"/>
+  <province name="Tierra del Fuego" capital="Ushuaia"/>
+  <province name="Tucuman" capital="San Miguel de Tucuman">
+    <mountain name="Llullaillaco" height="6739" latitude="-24.7" longitude="-68.5"/>
+    <mountain name="Monte Pissis" height="6795" latitude="-27.8" longitude="-68.85"/>
+    <mountain name="Ojos del Salado" height="6893" latitude="-27.1" longitude="-68.5"/>
+  </province>
+  <province name="Distrito Federal" capital="Buenos Aires"/>
+  <province name="Bolivia" capital="La Paz">
+    <mountain name="Illampu" height="6368" latitude="-15.8" longitude="-68.5"/>
+    <mountain name="Illimani" height="6439" latitude="-16.65" longitude="-67.8"/>
+    <mountain name="Licancabur" height="5920" latitude="-22.8" longitude="-67.9"/>
+    <mountain name="Sajama" height="6542" latitude="-18.1" longitude="-68.9"/>
+  </province>
+  <province name="Acre" capital="Rio Branco"/>
+  <province name="Alagoas" capital="Maceio"/>
+  <province name="Amapa" capital="Macapa"/>
+  <province name="Amazonas" capital="Manaus"/>
+  <province name="Bahia" capital="Salvador"/>
+  <province name="Ceara" capital="Fortaleza"/>
+  <province name="Espirito Santo" capital="Vitoria"/>
+  <province name="Goias" capital="Goiania"/>
+  <province name="Maranhao" capital="Sao Luis"/>
+  <province name="Mato Grosso" capital="Cuiaba"/>
+  <province name="Mato Grosso do Sul" capital="Campo Grande"/>
+  <province name="Minas Gerais" capital="Belo Horizonte">
+    <mountain name="Pico de Agulhas Negras" height="2791" latitude="-22.4" longitude="-44.65"/>
+  </province>
+  <province name="Para" capital="Belem"/>
+  <province name="Paraiba" capital="Joao Pessoa"/>
+  <province name="Parana" capital="Curitiba"/>
+  <province name="Pernambuco" capital="Recife"/>
+  <province name="Piaui" capital="Teresina"/>
+  <province name="Rio de Janeiro" capital="Rio de Janeiro">
+    <mountain name="Pico de Agulhas Negras" height="2791" latitude="-22.4" longitude="-44.65"/>
+  </province>
+  <province name="Rio Grande do Norte" capital="Natal"/>
+  <province name="Rio Grande do Sul" capital="Porto Alegre"/>
+  <province name="Rondonia" capital="Porto Velho"/>
+  <province name="Roraima" capital="Boa Vista"/>
+  <province name="Santa Catarina" capital="Florianopolis"/>
+  <province name="Sao Paulo" capital="Sao Paulo"/>
+  <province name="Sergipe" capital="Aracaju"/>
+  <province name="Tocantins" capital="Palmas"/>
+  <province name="Distrito Federal" capital="Brasilia"/>
+  <province name="Chile" capital="Santiago">
+    <mountain name="Licancabur" height="5920" latitude="-22.8" longitude="-67.9"/>
+    <mountain name="Llullaillaco" height="6739" latitude="-24.7" longitude="-68.5"/>
+    <mountain name="Ojos del Salado" height="6893" latitude="-27.1" longitude="-68.5"/>
+  </province>
+  <province name="Paraguay" capital="Asuncion"/>
+  <province name="Uruguay" capital="Montevideo"/>
+  <province name="Amazonas" capital="Chachapoyas"/>
+  <province name="Ancash" capital="Huaraz">
+    <mountain name="Alpamayo" height="5947" latitude="-8.9" longitude="-77.7"/>
+    <mountain name="Huascaran" height="6768" latitude="-9" longitude="-77.3"/>
+    <mountain name="Pico Rocarre" height="5187" latitude="-8.8" longitude="-78"/>
+  </province>
+  <province name="Apurimac" capital="Abancay"/>
+  <province name="Arequipa" capital="Arequipa">
+    <mountain name="Ampato" height="6288" latitude="-15.8" longitude="-71.9"/>
+    <mountain name="Coropuna" height="6425" latitude="-15.5" longitude="-72.65"/>
+  </province>
+  <province name="Ayacucho" capital="Ayacucho"/>
+  <province name="Cajamarca" capital="Cajamarca"/>
+  <province name="Callao" capital="Callao"/>
+  <province name="Cuzco" capital="Cuzco">
+    <mountain name="Ausangate" height="6336" latitude="-13.8" longitude="-71.2"/>
+  </province>
+  <province name="Huancavelica" capital="Huancavelica"/>
+  <province name="Huanuco" capital="Huanuco"/>
+  <province name="Ica" capital="Ica"/>
+  <province name="Junin" capital="Huancayo"/>
+  <province name="La Libertad" capital="Trujillo"/>
+  <province name="Lambayeque" capital="Chiclayo"/>
+  <province name="Lima" capital="Lima"/>
+  <province name="Loreto" capital="Iquitos"/>
+  <province name="Madre de Dios" capital="Puerto Maldonado"/>
+  <province name="Moquegua" capital="Moquegua"/>
+  <province name="Pasco" capital="Cerro de Pasco"/>
+  <province name="Piura" capital="Piura"/>
+  <province name="Puno" capital="Puno"/>
+  <province name="San Martin" capital="Moyobamba"/>
+  <province name="Tacna" capital="Tacna"/>
+  <province name="Tumbes" capital="Tumbes"/>
+  <province name="Ucayali" capital="Pucallpa"/>
+  <province name="French Guiana" capital="Cayenne"/>
+  <province name="Guyana" capital="Georgetown"/>
+  <province name="Suriname" capital="Paramaribo"/>
+  <province name="Amazonas" capital="Puerto Ayacucho"/>
+  <province name="Anzoategui" capital="Barcelona"/>
+  <province name="Apure" capital="San Fernando"/>
+  <province name="Aragua" capital="Maracay"/>
+  <province name="Barinas" capital="Barinas"/>
+  <province name="Bolivar" capital="Ciudad Bolivar"/>
+  <province name="Carabobo" capital="Valencia"/>
+  <province name="Cojedes" capital="San Carlos"/>
+  <province name="Delta Amacuro" capital="Tucupita"/>
+  <province name="Falcon" capital="Coro"/>
+  <province name="Guarico" capital="San Juan"/>
+  <province name="Lara" capital="Barquisimeto"/>
+  <province name="Merida" capital="Merida">
+    <mountain name="Pico Bolivar" height="4981" latitude="8.6" longitude="-71"/>
+  </province>
+  <province name="Miranda" capital="Los Teques"/>
+  <province name="Monagas" capital="Maturin"/>
+  <province name="Nueva Esparta" capital="La Ascuncion"/>
+  <province name="Portuguesa" capital="Guanare"/>
+  <province name="Sucre" capital="Cumana"/>
+  <province name="Tachira" capital="San Cristobal"/>
+  <province name="Trujillo" capital="Trujillo"/>
+  <province name="Yaracuy" capital="San Felipe"/>
+  <province name="Zulia" capital="Maracaibo"/>
+  <province name="Distrito Federal" capital="Caracas"/>
+  <province name="Ecuador" capital="Quito">
+    <mountain name="Cayambe" height="5796" latitude=".1" longitude="-78"/>
+    <mountain name="Chimborazo" height="6287" latitude="-1.2" longitude="-78.5"/>
+    <mountain name="Cotopaxi" height="5897" latitude="-.7" longitude="-78.4"/>
+  </province>
+  <province name="Falkland Islands" capital="Stanley"/>
+  <province name="Algeria" capital="Algier">
+    <mountain name="Tahat" height="3003" latitude="23.3" longitude="5.5"/>
+  </province>
+  <province name="Libya" capital="Tripoli"/>
+  <province name="Mali" capital="Bamako"/>
+  <province name="Mauritania" capital="Nouakchott"/>
+  <province name="Morocco" capital="Rabat">
+    <mountain name="Djebel Aures" height="2456" latitude="35.5" longitude="-6.5"/>
+    <mountain name="Tubkhal" height="4165" latitude="31" longitude="-8"/>
+  </province>
+  <province name="Niger" capital="Niamey">
+    <mountain name="Mont Greboun" height="1944" latitude="20" longitude="9"/>
+    <mountain name="Tamgak" height="1800" latitude="19" longitude="9"/>
+  </province>
+  <province name="Tunisia" capital="Tunis"/>
+  <province name="Western Sahara" capital="El Aaiun"/>
+  <province name="Cabinda" capital="Cabinda"/>
+  <province name="Zaire" capital="Mbanza Congo"/>
+  <province name="Uige" capital="Uige"/>
+  <province name="Luanda" capital="Luanda"/>
+  <province name="Cuanza Norte" capital="Ndalatando"/>
+  <province name="Cuanza Sul" capital="Sumbe"/>
+  <province name="Malanje" capital="Malanje"/>
+  <province name="Lunda Norte" capital="Lucapa"/>
+  <province name="Lunda Sul" capital="Saurimo"/>
+  <province name="Benguela" capital="Benguela"/>
+  <province name="Huambo" capital="Huambo"/>
+  <province name="Bie" capital="Bie"/>
+  <province name="Moxico" capital="Luena"/>
+  <province name="Cuando Cubango" capital="Menongue"/>
+  <province name="Namibe" capital="Namibe"/>
+  <province name="Huila" capital="Lubango">
+    <mountain name="Nevado del Huila" height="5750" latitude="2.9" longitude="-76"/>
+  </province>
+  <province name="Bengo" capital="Caxito"/>
+  <province name="Cunene" capital="Ngiva"/>
+  <province name="Congo" capital="Brazzaville"/>
+  <province name="Namibia" capital="Windhoek"/>
+  <province name="Bandundu" capital="Bandundu"/>
+  <province name="Bas Zaire" capital="Matadi"/>
+  <province name="Equateur" capital="Mbandaka"/>
+  <province name="Haut Zaire" capital="Kisangani"/>
+  <province name="Kasai Occidental" capital="Kananga"/>
+  <province name="Kasai Oriental" capital="Mbuji Mayi"/>
+  <province name="Kivu" capital="Bukavu">
+    <mountain name="Karisimbi" height="4507" latitude="-1.5" longitude="29.45"/>
+    <mountain name="Ruwenzori" height="5109" latitude=".4" longitude="29.9"/>
+  </province>
+  <province name="Shaba/Katanga" capital="Lubumbashi"/>
+  <province name="Kinshasa" capital="Kinshasa"/>
+  <province name="Central" capital="Kabwe"/>
+  <province name="Copperbelt" capital="Ndola"/>
+  <province name="Eastern" capital="Chipata">
+    <mountain name="Kenia" height="5199" latitude=".15" longitude="37.3"/>
+  </province>
+  <province name="Luapula" capital="Mansa"/>
+  <province name="Lusaka" capital="Lusaka"/>
+  <province name="Northern" capital="Kasama"/>
+  <province name="Northwestern" capital="Solwezi"/>
+  <province name="Southern" capital="Livingstone"/>
+  <province name="Western" capital="Mongu">
+    <mountain name="Elgon" height="4321" latitude="1.1" longitude="34.55"/>
+  </province>
+  <province name="Benin" capital="Porto-Novo"/>
+  <province name="Burkina Faso" capital="Ouagadougou"/>
+  <province name="Nigeria" capital="Abuja"/>
+  <province name="Togo" capital="Lome"/>
+  <province name="Botswana" capital="Gaborone"/>
+  <province name="Eastern Cape" capital="Bisho"/>
+  <province name="Free State" capital="Bloemfontein"/>
+  <province name="Gauteng" capital="Johannesburg"/>
+  <province name="Kwazulu Natal" capital="Pietermaritzburg">
+    <mountain name="Cathkin Peak" height="3181" latitude="-29.1" longitude="29.35"/>
+  </province>
+  <province name="Mpumalanga" capital="Nelspruit"/>
+  <province name="Northern Cape" capital="Kimberley"/>
+  <province name="Limpopo" capital="Pietersburg"/>
+  <province name="North West" capital="Mmabatho"/>
+  <province name="Western Cape" capital="Cape Town"/>
+  <province name="Zimbabwe" capital="Harare"/>
+  <province name="Cote dIvoire" capital="Yamoussoukro"/>
+  <province name="Ghana" capital="Accra"/>
+  <province name="Burundi" capital="Bujumbura"/>
+  <province name="Rwanda" capital="Kigali">
+    <mountain name="Karisimbi" height="4507" latitude="-1.5" longitude="29.45"/>
+  </province>
+  <province name="Dodoma" capital="Dodoma"/>
+  <province name="Arusha" capital="Arusha">
+    <mountain name="Meru" height="4567" latitude="-3.2" longitude="36.8"/>
+  </province>
+  <province name="Kilimanjaro" capital="Moshi">
+    <mountain name="Kilimanjaro" height="5895" latitude="-3.05" longitude="37.35"/>
+    <mountain name="Mawenzi" height="5148" latitude="-3.1" longitude="37.45"/>
+  </province>
+  <province name="Tanga" capital="Tanga"/>
+  <province name="Morogoro" capital="Morogoro"/>
+  <province name="Pwani" capital="Dar es Salaam"/>
+  <province name="Daressalam" capital="Dar es Salaam"/>
+  <province name="Lindi" capital="Lindi"/>
+  <province name="Mtwara" capital="Mtwara Mikandani"/>
+  <province name="Ruvuma" capital="Songea"/>
+  <province name="Iringa" capital="Iringa"/>
+  <province name="Mbeya" capital="Mbeya"/>
+  <province name="Singida" capital="Singida"/>
+  <province name="Tabora" capital="Tabora"/>
+  <province name="Rukwa" capital="Sumbawanga"/>
+  <province name="Kigoma" capital="Kigoma Ujiji"/>
+  <province name="Shinyanga" capital="Shinyanga"/>
+  <province name="Kagera" capital="Bukoba"/>
+  <province name="Mwanza" capital="Mwanza"/>
+  <province name="Mara" capital="Musoma"/>
+  <province name="Kaskazini Ujunga" capital="Mkokotoni"/>
+  <province name="Kusini Ujunga" capital="Koani"/>
+  <province name="Mjini Magharibi" capital="Zanzibar"/>
+  <province name="Kaskazini Pemba" capital="Wete"/>
+  <province name="Kusini Pemba" capital="Chake Cahke"/>
+  <province name="Adamaoua" capital="Ngaoundere"/>
+  <province name="Centre" capital="Yaounde"/>
+  <province name="Est" capital="Bertoua"/>
+  <province name="Nord extreme" capital="Maroua"/>
+  <province name="Cote/Littoral" capital="Douala"/>
+  <province name="Nord" capital="Garoua"/>
+  <province name="Nordoueste" capital="Bamenda"/>
+  <province name="Ouest" capital="Bafoussam"/>
+  <province name="Sud" capital="Ebolowa"/>
+  <province name="Sudoueste" capital="Buea">
+    <mountain name="Fako" height="4095" latitude="4.2" longitude="9.2"/>
+  </province>
+  <province name="Central African Republic" capital="Bangui"/>
+  <province name="Chad" capital="NDjamena">
+    <mountain name="Emi Kussi" height="3415" latitude="20" longitude="18.5"/>
+  </province>
+  <province name="Equatorial Guinea" capital="Malabo">
+    <mountain name="Pico Basile" height="3011" latitude="3.5" longitude="8.7"/>
+  </province>
+  <province name="Gabon" capital="Libreville"/>
+  <province name="Cape Verde" capital="Praia">
+    <mountain name="Fogo" height="2829" latitude="14.95" longitude="-24.4"/>
+  </province>
+  <province name="Aali an Nil" capital="Malakal"/>
+  <province name="Bahr al Ghazal" capital="Waw"/>
+  <province name="Darfur" capital="al Fasher">
+    <mountain name="Jabal Marra" height="3088" latitude="13" longitude="24.6"/>
+  </province>
+  <province name="al Istiwaiyah" capital="Juba"/>
+  <province name="al Khartum" capital="Khartoum"/>
+  <province name="Kurdufan" capital="al Ubayyid"/>
+  <province name="ash Shamaliyah" capital="ad Damir"/>
+  <province name="ash Sharqiyah" capital="Kassala"/>
+  <province name="Nil al Asraq" capital="Wad Madani"/>
+  <province name="Comoros" capital="Moroni"/>
+  <province name="Guinea" capital="Conakry"/>
+  <province name="Liberia" capital="Monrovia"/>
+  <province name="Djibouti" capital="Djibouti"/>
+  <province name="Eritrea" capital="Asmara"/>
+  <province name="Ethiopia" capital="Addis Ababa">
+    <mountain name="Ras Daschan Terara" height="4533" latitude="13.2" longitude="38.4"/>
+  </province>
+  <province name="Somalia" capital="Mogadishu"/>
+  <province name="Central" capital="Nyeri"/>
+  <province name="Coast" capital="Mombasa"/>
+  <province name="Eastern" capital="Embu">
+    <mountain name="Kenia" height="5199" latitude=".15" longitude="37.3"/>
+  </province>
+  <province name="Nairobi" capital="Nairobi"/>
+  <province name="North Eastern" capital="Garissa"/>
+  <province name="Nyanza" capital="Kisumu"/>
+  <province name="Rift Valley" capital="Nakuru"/>
+  <province name="Western" capital="Kakamega">
+    <mountain name="Elgon" height="4321" latitude="1.1" longitude="34.55"/>
+  </province>
+  <province name="Gambia" capital="Banjul"/>
+  <province name="Dakar" capital="Dakar"/>
+  <province name="Diourbel" capital="Diourbel"/>
+  <province name="Fatick" capital="Fatick"/>
+  <province name="Kaolack" capital="Kaolack"/>
+  <province name="Kolda" capital="Kolda"/>
+  <province name="Louga" capital="Louga"/>
+  <province name="Saint Louis" capital="Saint Louis"/>
+  <province name="Tambacounda" capital="Tambacounda"/>
+  <province name="Thies" capital="Thies"/>
+  <province name="Ziguinchor" capital="Ziguinchor"/>
+  <province name="Guinea-Bissau" capital="Bissau"/>
+  <province name="Sierra Leone" capital="Freetown"/>
+  <province name="Uganda" capital="Kampala">
+    <mountain name="Elgon" height="4321" latitude="1.1" longitude="34.55"/>
+    <mountain name="Ruwenzori" height="5109" latitude=".4" longitude="29.9"/>
+  </province>
+  <province name="Lesotho" capital="Maseru">
+    <mountain name="Thabana Ntlenyana" height="3482" latitude="-29.5" longitude="29.3"/>
+  </province>
+  <province name="Antsiranana" capital="Antsiranana">
+    <mountain name="Tsaratanana" height="2876" latitude="-14" longitude="48.5"/>
+  </province>
+  <province name="Antananarivo" capital="Antananarivo">
+    <mountain name="Tsiafajavona" height="2642" latitude="-19.3" longitude="47.2"/>
+  </province>
+  <province name="Fianarantsoa" capital="Fianarantsoa">
+    <mountain name="Andringitra" height="2658" latitude="-22.5" longitude="47"/>
+  </province>
+  <province name="Mahajanga" capital="Majunga"/>
+  <province name="Toamasina" capital="Tamatave"/>
+  <province name="Toliara" capital="Toliara"/>
+  <province name="Malawi" capital="Lilongwe"/>
+  <province name="Cabo Delgado" capital="Pemba"/>
+  <province name="Gaza" capital="Xai Xai"/>
+  <province name="Inhambane" capital="Inhambane"/>
+  <province name="Manica" capital="Chimoio"/>
+  <province name="Maputo" capital="Maputo"/>
+  <province name="Nampula" capital="Nampula"/>
+  <province name="Niassa" capital="Lichinga"/>
+  <province name="Sofala" capital="Beira"/>
+  <province name="Tete" capital="Tete"/>
+  <province name="Zambezia" capital="Quelimane"/>
+  <province name="Maputo (munic.)" capital="Maputo"/>
+  <province name="Mauritius" capital="Port Louis"/>
+  <province name="Mayotte" capital="Mamoutzou"/>
+  <province name="Swaziland" capital="Mbabane"/>
+  <province name="Reunion" capital="Saint-Denis">
+    <mountain name="Piton de la Fournaise" height="2631" latitude="-21.2" longitude="55.7"/>
+    <mountain name="Piton des Neiges" height="3069" latitude="-21.1" longitude="55.5"/>
+  </province>
+  <province name="Saint Helena" capital="Jamestown">
+    <mountain name="Queen Marys Peak" height="2060" latitude="-37.1" longitude="-12.3"/>
+  </province>
+  <province name="Sao Tome and Principe" capital="Sao Tome">
+    <mountain name="Pico de Sao Tome" height="2024" latitude=".2" longitude="6.6"/>
+  </province>
+  <province name="Seychelles" capital="Victoria"/>
+  <province name="Neath and Port Talbot" capital="Port Talbot"/>
+  <province name="Newport" capital="Newport"/>
+  <province name="Pembrokeshire" capital="Haverfordwest"/>
+  <province name="Powys" capital="Llandrindod Wells"/>
+  <province name="Rhondda Cynon Taff" capital="Rhondda"/>
+  <province name="Swansea" capital="Swansea"/>
+  <province name="Torfaen" capital="Pontypool"/>
+  <province name="Vale of Glamorgan" capital="Barry"/>
+  <province name="Wrexham" capital="Wrexham"/>
+  <province name="Northern Ireland" capital="Belfast"/>
+  <province name="Orkneys" capital="Kirkwall"/>
+  <province name="Outer Hebrides" capital="Stornoway"/>
+  <province name="Shetland" capital="Lerwick"/>
+  <province name="Afghanistan" capital="Kabul">
+    <mountain name="Tirich Mir" height="7690" latitude="36.25" longitude="71.8"/>
+  </province>
+  <province name="Anhui" capital="Hefei"/>
+  <province name="Fujian" capital="Fuzhou"/>
+  <province name="Gansu" capital="Lanzhou"/>
+  <province name="Guangdong" capital="Guangzhou"/>
+  <province name="Guizhou" capital="Guiyang"/>
+  <province name="Hainan" capital="Haikou"/>
+  <province name="Hebei" capital="Shijiazhuang"/>
+  <province name="Heilongjiang" capital="Harbin"/>
+  <province name="Henan" capital="Zhengzhou"/>
+  <province name="Hubei" capital="Wuhan"/>
+  <province name="Hunan" capital="Changsha"/>
+  <province name="Jiangsu" capital="Nanjing"/>
+  <province name="Jiangxi" capital="Nanchang"/>
+  <province name="Jilin" capital="Changchun">
+    <mountain name="Changbai Shan" height="2744" latitude="42" longitude="128.1"/>
+  </province>
+  <province name="Liaoning" capital="Shenyang"/>
+  <province name="Qinghai" capital="Xining"/>
+  <province name="Shaanxi" capital="Xian"/>
+  <province name="Shandong" capital="Jinan"/>
+  <province name="Shanxi" capital="Taiyuan"/>
+  <province name="Sichuan" capital="Chengdu"/>
+  <province name="Yunnan" capital="Kunming"/>
+  <province name="Zhejiang" capital="Hangzhou"/>
+  <province name="Guangxi Zhuangzu" capital="Nanning"/>
+  <province name="Nei Monggol" capital="Hohhot"/>
+  <province name="Ningxia Huizu" capital="Yinchuan"/>
+  <province name="Xinjiang Uygur" capital="Urumqi">
+    <mountain name="Broad Peak" height="8051" latitude="35.8" longitude="76.6"/>
+    <mountain name="Gasherbrum I" height="8080" latitude="35.6" longitude="76.7"/>
+    <mountain name="Gasherbrum II" height="8034" latitude="35.75" longitude="76.65"/>
+    <mountain name="K2" height="8611" latitude="35.9" longitude="76.5"/>
+    <mountain name="Pik Pobeda" height="7439" latitude="42" longitude="80.1"/>
+  </province>
+  <province name="Tibet" capital="Lhasa">
+    <mountain name="Cho Oyu" height="8188" latitude="28.35" longitude="86.65"/>
+    <mountain name="Kailash" height="6714" latitude="31.05" longitude="81.3"/>
+    <mountain name="Lhotse" height="8516" latitude="28" longitude="86.9"/>
+    <mountain name="Makalu" height="8485" latitude="27.9" longitude="87.1"/>
+    <mountain name="Mount Everest" height="8848" latitude="28" longitude="86.9"/>
+    <mountain name="Shishapangma" height="8027" latitude="28.55" longitude="85.8"/>
+  </province>
+  <province name="Beijing (munic.)" capital="Beijing"/>
+  <province name="Shanghai (munic.)" capital="Shanghai"/>
+  <province name="Tianjin (munic.)" capital="Tianjin"/>
+  <province name="Azarbayian e Gharbt" capital="Orumiyeh"/>
+  <province name="Azarbayian e Sharqi" capital="Tabriz">
+    <mountain name="Sabalan" height="4811" latitude="38.3" longitude="47.8"/>
+  </province>
+  <province name="Bakhtaran" capital="Bakhtaran"/>
+  <province name="Boyer Ahmad e Kohkiluyeh" capital="Yasuj"/>
+  <province name="Bushehr" capital="Bushehr"/>
+  <province name="Chahar Mahal e Bakhtiari" capital="Shahr e Kord">
+    <mountain name="Zard Kuh" height="4550" latitude="32.35" longitude="50.1"/>
+  </province>
+  <province name="Esfahan" capital="Esfahan"/>
+  <province name="Fars" capital="Shiraz"/>
+  <province name="Gilan" capital="Rasht"/>
+  <province name="Hamadan" capital="Hamadan"/>
+  <province name="Hormozgan" capital="Bandar Abbas"/>
+  <province name="Ilam" capital="Ilam"/>
+  <province name="Kerman" capital="Kerman"/>
+  <province name="Khorasan" capital="Mashhad"/>
+  <province name="Khuzestan" capital="Ahvaz"/>
+  <province name="Kordestan" capital="Sanandaj"/>
+  <province name="Lorestan" capital="Khorramabad"/>
+  <province name="Markazi" capital="Arak"/>
+  <province name="Mazandaran" capital="Sari">
+    <mountain name="Damavand" height="5610" latitude="35.95" longitude="52.1"/>
+  </province>
+  <province name="Semnan" capital="Semnan"/>
+  <province name="Sistan e Baluchestan" capital="Zahedan"/>
+  <province name="Tehran" capital="Tehran"/>
+  <province name="Yazd" capital="Yazd"/>
+  <province name="Zanjan" capital="Zanjan"/>
+  <province name="Pakistan" capital="Islamabad">
+    <mountain name="Broad Peak" height="8051" latitude="35.8" longitude="76.6"/>
+    <mountain name="Gasherbrum I" height="8080" latitude="35.6" longitude="76.7"/>
+    <mountain name="Gasherbrum II" height="8034" latitude="35.75" longitude="76.65"/>
+    <mountain name="K2" height="8611" latitude="35.9" longitude="76.5"/>
+    <mountain name="Nanga Parbat" height="8125" latitude="35.2" longitude="74.6"/>
+  </province>
+  <province name="Khujand" capital="Khujand"/>
+  <province name="Kulob" capital="Kulob"/>
+  <province name="Khatlon" capital="Qurghonteppa"/>
+  <province name="Badakhshoni Kuni" capital="Khorugh">
+    <mountain name="Pik Karl-Marx" height="6726" latitude="38" longitude="71.3"/>
+    <mountain name="Pik Kommunizma" height="7494" latitude="39" longitude="72"/>
+    <mountain name="Pik Lenina" height="7134" latitude="39.2" longitude="72.55"/>
+    <mountain name="Pik Moskva" height="6785" latitude="39" longitude="71.5"/>
+    <mountain name="Pik Revoluzija" height="6974" latitude="38.3" longitude="72.2"/>
+  </province>
+  <province name="Dushanbe (munic.)" capital="Dushanbe"/>
+  <province name="Ahal" capital="Ashgabat"/>
+  <province name="Balkan" capital="Nebitdag"/>
+  <province name="Dashhowuz" capital="Tashauz"/>
+  <province name="Leban" capital="Charjew"/>
+  <province name="Mary" capital="Mary"/>
+  <province name="Andijon" capital="Andijon"/>
+  <province name="Bukhoro" capital="Bukhoro"/>
+  <province name="Farghona" capital="Farghona"/>
+  <province name="Jizzakh" capital="Jizzakh"/>
+  <province name="Khorazm" capital="Urganch"/>
+  <province name="Namangan" capital="Namangan"/>
+  <province name="Nawoiy" capital="Nawoiy"/>
+  <province name="Qasqadare" capital="Qarshi"/>
+  <province name="Samarqand" capital="Samarqand"/>
+  <province name="Sirdare" capital="Guliston"/>
+  <province name="Surkhondare" capital="Termiz"/>
+  <province name="Toshkent" capital="Tashkent"/>
+  <province name="Qaraqalpoghiston" capital="Nukus"/>
+  <province name="Armenia" capital="Yerevan"/>
+  <province name="Georgia" capital="Tbilisi">
+    <mountain name="Kasbek" height="5033" latitude="42.42" longitude="44.31"/>
+  </province>
+  <province name="Azerbaijan" capital="Baku"/>
+  <province name="Bahrain" capital="Manama"/>
+  <province name="Bangladesh" capital="Dhaka"/>
+  <province name="Ayeyarwady" capital="Pathein"/>
+  <province name="Magway" capital="Magway"/>
+  <province name="Mandalay" capital="Mandalay"/>
+  <province name="Bago" capital="Bago"/>
+  <province name="Yangon" capital="Rangoon"/>
+  <province name="Sagaing" capital="Sagaing"/>
+  <province name="Tanintharyi" capital="Tavoy"/>
+  <province name="Chin" capital="Hakha"/>
+  <province name="Kachin" capital="Myitkyina"/>
+  <province name="Kayin" capital="Hpa an"/>
+  <province name="Kayah" capital="Loikaw"/>
+  <province name="Mon" capital="Moulmein"/>
+  <province name="Rakhine" capital="Akyab"/>
+  <province name="Shan" capital="Taunggyi"/>
+  <province name="Andhra Pradesh" capital="Hyderabad"/>
+  <province name="Arunachal Pradesh" capital="Itanagar"/>
+  <province name="Assam" capital="Dispur"/>
+  <province name="Bihar" capital="Patna"/>
+  <province name="Goa" capital="Panaji"/>
+  <province name="Gujarat" capital="Gandhinagar"/>
+  <province name="Haryana" capital="Chandigarh"/>
+  <province name="Himachal Pradesh" capital="Simla"/>
+  <province name="Jammu and Kashmir" capital="Srinagar"/>
+  <province name="Karnataka" capital="Bangalore"/>
+  <province name="Kerala" capital="Trivandrum"/>
+  <province name="Madhya Pradesh" capital="Bhopal"/>
+  <province name="Maharashtra" capital="Bombay"/>
+  <province name="Manipur" capital="Imphal"/>
+  <province name="Meghalaya" capital="Shillong"/>
+  <province name="Mizoram" capital="Aijal"/>
+  <province name="Nagaland" capital="Kohima"/>
+  <province name="Orissa" capital="Bhubaneswar"/>
+  <province name="Punjab" capital="Chandigarh"/>
+  <province name="Rajasthan" capital="Jaipur"/>
+  <province name="Sikkim" capital="Gangtok">
+    <mountain name="Kangchendzonga" height="8586" latitude="27.7" longitude="88.1"/>
+  </province>
+  <province name="Tamil Nadu" capital="Madras">
+    <mountain name="Dodabetta" height="2636" latitude="11.4" longitude="76.7"/>
+  </province>
+  <province name="Tripura" capital="Agartala"/>
+  <province name="Uttar Pradesh" capital="Lucknow">
+    <mountain name="Nanda Devi" height="7816" latitude="30.4" longitude="80"/>
+  </province>
+  <province name="West Bengal" capital="Calcutta"/>
+  <province name="Andaman and Nicobar Is." capital="Port Blair"/>
+  <province name="Chandigarh" capital="Chandigarh"/>
+  <province name="Dadra and Nagar Haveli" capital="Silvassa"/>
+  <province name="Daman and Diu" capital="Daman"/>
+  <province name="Delhi" capital="New Delhi"/>
+  <province name="Lakshadweep Is." capital="Kavaratti"/>
+  <province name="Pondicherry" capital="Pondicherry"/>
+  <province name="Bhutan" capital="Thimphu"/>
+  <province name="Brunei" capital="Bandar Seri Begawan"/>
+  <province name="Johor" capital="Johor Baharu"/>
+  <province name="Kedah" capital="Alor Setar"/>
+  <province name="Kelantan" capital="Kota Baharu">
+    <mountain name="Tahan" height="2190" latitude="4" longitude="108"/>
+  </province>
+  <province name="Melaka" capital="Melaka"/>
+  <province name="Negeri Sembilan" capital="Seremban"/>
+  <province name="Pahang" capital="Kuantan">
+    <mountain name="Tahan" height="2190" latitude="4" longitude="108"/>
+  </province>
+  <province name="Perak" capital="Ipoh"/>
+  <province name="Perlis" capital="Kangar"/>
+  <province name="Pulau Pinang" capital="Penang"/>
+  <province name="Sabah" capital="Kota Kinabalu">
+    <mountain name="Kinabalu" height="4101" latitude="6.1" longitude="116.5"/>
+  </province>
+  <province name="Sarawak" capital="Kuching"/>
+  <province name="Selangor" capital="Shah Alam"/>
+  <province name="Albania" capital="Tirane">
+    <mountain name="Jezerce" height="2694" latitude="42.3" longitude="19.4"/>
+    <mountain name="Korab" height="2751" latitude="41.4" longitude="20.3"/>
+  </province>
+  <province name="Anatoliki Makedhonia kai Thraki" capital="Komotini"/>
+  <province name="Attiki" capital="Athens"/>
+  <province name="Dhytiki Ellas" capital="Patrai"/>
+  <province name="Dhytiki Makedhonia" capital="Kozani"/>
+  <province name="Ionioi Nisoi" capital="Korfu"/>
+  <province name="Ipiros" capital="Ioannina"/>
+  <province name="Kedriki Makedhonia" capital="Thessaloniki">
+    <mountain name="Olymp" height="2917" latitude="40.1" longitude="22.35"/>
+  </province>
+  <province name="Kriti" capital="Iraklion">
+    <mountain name="Psiloritis" height="2456" latitude="35.2" longitude="24.7"/>
+  </province>
+  <province name="Notion Aiyaion" capital="Ermoupoli"/>
+  <province name="Peloponnisos" capital="Tripoli"/>
+  <province name="Sterea Ellas" capital="Lamia"/>
+  <province name="Thessalia" capital="Larisa">
+    <mountain name="Olymp" height="2917" latitude="40.1" longitude="22.35"/>
+  </province>
+  <province name="Voreion Aiyaion" capital="Mytilini"/>
+  <province name="Macedonia" capital="Skopje">
+    <mountain name="Korab" height="2751" latitude="41.4" longitude="20.3"/>
+  </province>
+  <province name="Serbia" capital="Belgrade"/>
+  <province name="Montenegro" capital="Podgorica"/>
+  <province name="Kosovo" capital="Pristina"/>
+  <province name="Andorra" capital="Andorra la Vella"/>
+  <province name="Alsace" capital="Strasbourg">
+    <mountain name="Grand Ballon" height="1424" latitude="47.9" longitude="7.1"/>
+  </province>
+  <province name="Aquitaine" capital="Bordeaux"/>
+  <province name="Auvergne" capital="Clermont Ferrand">
+    <mountain name="Puy De Dome" height="1465" latitude="45.8" longitude="3"/>
+    <mountain name="Puy de Sancy" height="1885" latitude="45.5" longitude="2.8"/>
+  </province>
+  <province name="Basse Normandie" capital="Caen"/>
+  <province name="Bretagne" capital="Rennes"/>
+  <province name="Bourgogne" capital="Dijon"/>
+  <province name="Centre" capital="Orleans"/>
+  <province name="Champagne Ardenne" capital="Chalons en Champagne"/>
+  <province name="Corse" capital="Ajaccio">
+    <mountain name="Monte Cinto" height="2706" latitude="42.4" longitude="8.9"/>
+  </province>
+  <province name="Franche Comte" capital="Besancon"/>
+  <province name="Haute Normandie" capital="Rouen"/>
+  <province name="Ile de France" capital="Paris"/>
+  <province name="Languedoc Roussillon" capital="Montpellier"/>
+  <province name="Limousin" capital="Limoges"/>
+  <province name="Lorraine" capital="Metz">
+    <mountain name="Grand Ballon" height="1424" latitude="47.9" longitude="7.1"/>
+  </province>
+  <province name="Midi Pyrenees" capital="Toulouse">
+    <mountain name="Vignemale" height="3298" latitude="42.8" longitude=".15"/>
+  </province>
+  <province name="Nord Pas de Calais" capital="Lille"/>
+  <province name="Pays de la Loire" capital="Nantes"/>
+  <province name="Picardie" capital="Amiens"/>
+  <province name="Poitou Charentes" capital="Poitiers"/>
+  <province name="Provence Cote dAzur" capital="Marseille"/>
+  <province name="Rhone Alpes" capital="Lyon">
+    <mountain name="Barre des Ecrins" height="4101" latitude="44.9" longitude="6.3"/>
+    <mountain name="Mont Blanc" height="4808" latitude="45.8" longitude="6.8"/>
+  </province>
+  <province name="Andalusia" capital="Sevilla">
+    <mountain name="Mulhacen" height="3482" latitude="37" longitude="3.3"/>
+  </province>
+  <province name="Aragon" capital="Zaragoza">
+    <mountain name="Moncayo" height="2313" latitude="41.8" longitude="1.85"/>
+    <mountain name="Pico de Aneto" height="3404" latitude="42.6" longitude=".65"/>
+    <mountain name="Vignemale" height="3298" latitude="42.8" longitude=".15"/>
+  </province>
+  <province name="Asturias" capital="Oviedo">
+    <mountain name="Torre de Cerredo" height="2648" latitude="43.2" longitude="4.85"/>
+  </province>
+  <province name="Balearic Islands" capital="Palma de Mallorca"/>
+  <province name="Basque Country" capital="Vitoria Gasteiz"/>
+  <province name="Canary Islands" capital="Santa Cruz de Tenerife">
+    <mountain name="Pico de Teide" height="3718" latitude="28.3" longitude="-16.6"/>
+    <mountain name="Pico de los Nieves" height="1949" latitude="25.95" longitude="-15.6"/>
+    <mountain name="Roque de los Muchachos" height="2426" latitude="28.75" longitude="-17.9"/>
+  </province>
+  <province name="Cantabria" capital="Santander"/>
+  <province name="Castile and Leon" capital="Valladolid">
+    <mountain name="Moncayo" height="2313" latitude="41.8" longitude="1.85"/>
+    <mountain name="Pico de Almanzor" height="2648" latitude="40.25" longitude="-5.3"/>
+    <mountain name="Torre de Cerredo" height="2648" latitude="43.2" longitude="4.85"/>
+  </province>
+  <province name="Castile La Mancha" capital="Toledo"/>
+  <province name="Catalonia" capital="Barcelona"/>
+  <province name="Estremadura" capital="Merida"/>
+  <province name="Galicia" capital="Santiago de Compostella"/>
+  <province name="Madrid" capital="Madrid"/>
+  <province name="Murcia" capital="Murcia"/>
+  <province name="Navarre" capital="Pamplona"/>
+  <province name="Rioja" capital="Logrono"/>
+  <province name="Valencia" capital="Valencia"/>
+  <province name="Burgenland" capital="Eisenstadt"/>
+  <province name="Carinthia" capital="Klagenfurt">
+    <mountain name="Grossglockner" height="3797" latitude="47" longitude="12.5"/>
+  </province>
+  <province name="Vorarlberg" capital="Bregenz"/>
+  <province name="Vienna" capital="Vienna"/>
+  <province name="Upper Austria" capital="Linz"/>
+  <province name="Tyrol" capital="Innsbruck">
+    <mountain name="Zugspitze" height="2963" latitude="47.3" longitude="11.1"/>
+  </province>
+  <province name="Styria" capital="Graz">
+    <mountain name="Hochgolling" height="2862" latitude="47.3" longitude="13.75"/>
+  </province>
+  <province name="Salzburg" capital="Salzburg">
+    <mountain name="Hochgolling" height="2862" latitude="47.3" longitude="13.75"/>
+  </province>
+  <province name="Lower Austria" capital="St. Polten"/>
+  <province name="Jihocesky" capital="Ceske Budejovice"/>
+  <province name="Jihomoravsky" capital="Brno"/>
+  <province name="Severocesky" capital="Usti nad Labem"/>
+  <province name="Severomoravsky" capital="Ostrava"/>
+  <province name="Praha" capital="Prague"/>
+  <province name="Vychodocesky" capital="Hradec Kralove">
+    <mountain name="Schneekoppe" height="1602" latitude="50.7" longitude="15.7"/>
+  </province>
+  <province name="Zapadocesky" capital="Plzen"/>
+  <province name="Baden Wurttemberg" capital="Stuttgart">
+    <mountain name="Feldberg" height="1493" latitude="47.5" longitude="7.5"/>
+  </province>
+  <province name="Bayern" capital="Munich">
+    <mountain name="Grosser Arber" height="1456" latitude="49.1" longitude="13"/>
+    <mountain name="Zugspitze" height="2963" latitude="47.3" longitude="11.1"/>
+  </province>
+  <province name="Berlin" capital="Berlin"/>
+  <province name="Brandenburg" capital="Potsdam"/>
+  <province name="Bremen" capital="Bremen"/>
+  <province name="Hamburg" capital="Hamburg"/>
+  <province name="Hessen" capital="Wiesbaden"/>
+  <province name="Mecklenburg Vorpommern" capital="Schwerin"/>
+  <province name="Niedersachsen" capital="Hannover"/>
+  <province name="Nordrhein Westfalen" capital="Dusseldorf"/>
+  <province name="Rheinland Pfalz" capital="Mainz"/>
+  <province name="Saarland" capital="Saarbrucken"/>
+  <province name="Sachsen" capital="Dresden"/>
+  <province name="Sachsen Anhalt" capital="Magdeburg">
+    <mountain name="Brocken" height="1141" latitude="51.8" longitude="10.6"/>
+  </province>
+  <province name="Schleswig Holstein" capital="Kiel"/>
+  <province name="Thuringen" capital="Erfurt"/>
+  <province name="Baranya" capital="Pecs"/>
+  <province name="Bacs Kiskun" capital="Kecskemet"/>
+  <province name="Bekes" capital="Bekescaba"/>
+  <province name="Borsod Abauj Zemplen" capital="Miskolc"/>
+  <province name="Csongrad" capital="Hodmezovasarhely"/>
+  <province name="Fejer" capital="Szekesfehervar"/>
+  <province name="Gyor Sopron" capital="Gyor"/>
+  <province name="Hajdu Bihar" capital="Debrecen"/>
+  <province name="Heves" capital="Eger"/>
+  <province name="Komarom Esztergom" capital="Tatabanya"/>
+  <province name="Nograd" capital="Salgotarjan"/>
+  <province name="Pest" capital="Budapest"/>
+  <province name="Somogy" capital="Kaposvar"/>
+  <province name="Szabolcs Szatmar" capital="Nyiregyhaza"/>
+  <province name="Szolnok" capital="Szolnok"/>
+  <province name="Tolna" capital="Szekszard"/>
+  <province name="Vas" capital="Szombathely"/>
+  <province name="Veszprem" capital="Veszprem"/>
+  <province name="Zala" capital="Zalaegerszeg"/>
+  <province name="Budapest (munic.)" capital="Budapest"/>
+  <province name="Debrecen (munic.)" capital="Debrecen"/>
+  <province name="Gyor (munic.)" capital="Gyor"/>
+  <province name="Miskolc (munic.)" capital="Miskolc"/>
+  <province name="Pecs (munic.)" capital="Pecs"/>
+  <province name="Szeged (munic.)" capital="Szeged"/>
+  <province name="Piemonte" capital="Turin">
+    <mountain name="GranParadiso" height="4061" latitude="45.5" longitude="7.25"/>
+  </province>
+  <province name="Valle dAosta" capital="Aosta">
+    <mountain name="GranParadiso" height="4061" latitude="45.5" longitude="7.25"/>
+    <mountain name="Matterhorn" height="4478" latitude="46" longitude="7.56"/>
+    <mountain name="Mont Blanc" height="4808" latitude="45.8" longitude="6.8"/>
+    <mountain name="Monte Rosa" height="4634" latitude="45.9" longitude="7.9"/>
+  </province>
+  <province name="Lombardia" capital="Milan">
+    <mountain name="Monte Rosa" height="4634" latitude="45.9" longitude="7.9"/>
+    <mountain name="Piz Bernina" height="4048" latitude="46.4" longitude="9.9"/>
+  </province>
+  <province name="Trentino Alto Adige" capital="Bolzano">
+    <mountain name="Marmolata" height="3343" latitude="46.4" longitude="11.85"/>
+  </province>
+  <province name="Veneto" capital="Venice">
+    <mountain name="Marmolata" height="3343" latitude="46.4" longitude="11.85"/>
+  </province>
+  <province name="Friuli Venezia Giulia" capital="Trieste"/>
+  <province name="Liguria" capital="Genua"/>
+  <province name="Emilia Romagna" capital="Bologna">
+    <mountain name="Monte Falterona" height="1654" latitude="43.9" longitude="11.7"/>
+  </province>
+  <province name="Toscana" capital="Firenze">
+    <mountain name="Monte Falterona" height="1654" latitude="43.9" longitude="11.7"/>
+  </province>
+  <province name="Umbria" capital="Perugia"/>
+  <province name="Marche" capital="Ancona"/>
+  <province name="Lazio" capital="Rome"/>
+  <province name="Abruzzo" capital="LAquila">
+    <mountain name="Gran Sasso" height="2912" latitude="42.5" longitude="13.55"/>
+  </province>
+  <province name="Molise" capital="Campobasso"/>
+  <province name="Campania" capital="Napoli">
+    <mountain name="Vesuv" height="1281" latitude="40.8" longitude="14.4"/>
+  </province>
+  <province name="Puglia" capital="Bari"/>
+  <province name="Basilicata" capital="Potenza"/>
+  <province name="Calabria" capital="Catanzaro"/>
+  <province name="Sicilia" capital="Palermo">
+    <mountain name="Etna" height="3323" latitude="37.7" longitude="15"/>
+  </province>
+  <province name="Sardegna" capital="Cagliari"/>
+  <province name="Liechtenstein" capital="Vaduz"/>
+  <province name="Slovakia" capital="Bratislava">
+    <mountain name="GerlachovskyStit" height="2655" latitude="49.2" longitude="20.1"/>
+  </province>
+  <province name="Slovenia" capital="Ljubljana"/>
+  <province name="AG" capital="Aarau"/>
+  <province name="AR" capital="Herisau"/>
+  <province name="AI" capital="Appenzell"/>
+  <province name="BL" capital="Liestal">
+    <mountain name="Finsteraarhorn" height="4274" latitude="46.5" longitude="8.1"/>
+  </province>
+  <province name="BS" capital="Basel"/>
+  <province name="BE" capital="Bern"/>
+  <province name="FR" capital="Fribourg"/>
+  <province name="GE" capital="Geneva"/>
+  <province name="GL" capital="Glarus"/>
+  <province name="GR" capital="Chur">
+    <mountain name="Crap_Sogn_Gion" height="2228" latitude="46.85" longitude="9.2"/>
+    <mountain name="Piz Bernina" height="4048" latitude="46.4" longitude="9.9"/>
+  </province>
+  <province name="JU" capital="Delemont"/>
+  <province name="LU" capital="Luzern"/>
+  <province name="NE" capital="Neuchatel"/>
+  <province name="NW" capital="Stans"/>
+  <province name="OW" capital="Sarnen"/>
+  <province name="SG" capital="Sankt Gallen"/>
+  <province name="SH" capital="Schaffhausen"/>
+  <province name="SZ" capital="Schwyz"/>
+  <province name="SO" capital="Solothurn"/>
+  <province name="TG" capital="Frauenfeld"/>
+  <province name="TI" capital="Bellinzona"/>
+  <province name="UR" capital="Altdorf"/>
+  <province name="VS" capital="Sion">
+    <mountain name="Finsteraarhorn" height="4274" latitude="46.5" longitude="8.1"/>
+    <mountain name="GrandCombin" height="4314" latitude="45.9" longitude="7.3"/>
+    <mountain name="Matterhorn" height="4478" latitude="46" longitude="7.56"/>
+    <mountain name="Monte Rosa" height="4634" latitude="45.9" longitude="7.9"/>
+  </province>
+  <province name="VD" capital="Lausanne"/>
+  <province name="ZG" capital="Zug"/>
+  <province name="ZH" capital="Zurich"/>
+  <province name="Belarus" capital="Minsk"/>
+  <province name="Latvia" capital="Riga"/>
+  <province name="Lithuania" capital="Vilnius"/>
+  <province name="Warszwaskie" capital="Warsaw"/>
+  <province name="Bialskopodlaskie" capital="Biala Podlaska"/>
+  <province name="Bialostockie" capital="Bialystok"/>
+  <province name="Bielskie" capital="Bielsko Biala"/>
+  <province name="Bydgoskie" capital="Bydgoszcz"/>
+  <province name="Chelmskie" capital="Chelm"/>
+  <province name="Ciechanowskie" capital="Ciechanow"/>
+  <province name="Czestochowskie" capital="Czestochowa"/>
+  <province name="Elblaskie" capital="Elblag"/>
+  <province name="Gdanskie" capital="Gdansk"/>
+  <province name="Gorzowskie" capital="Gorzow Wielkopolskie"/>
+  <province name="Jeleniogorskie" capital="Jelenia Gora"/>
+  <province name="Kaliskie" capital="Kalisz"/>
+  <province name="Katowickie" capital="Katowice"/>
+  <province name="Kieleckie" capital="Kielce"/>
+  <province name="Koninskie" capital="Konin"/>
+  <province name="Koszalinskie" capital="Koszalin"/>
+  <province name="Krakowskie" capital="Krakow"/>
+  <province name="Krosnienskie" capital="Krosno"/>
+  <province name="Legnickie" capital="Legnica"/>
+  <province name="Leszczynskie" capital="Leszno"/>
+  <province name="Lubelskie" capital="Lublin"/>
+  <province name="Lomzynskie" capital="Lomza"/>
+  <province name="Lodzkie" capital="Lodz"/>
+  <province name="Nowosadeckie" capital="Nowy Sacz"/>
+  <province name="Olsztynskie" capital="Olsztyn"/>
+  <province name="Opolskie" capital="Opole"/>
+  <province name="Ostroleckie" capital="Ostroleka"/>
+  <province name="Pilskie" capital="Pila"/>
+  <province name="Piotrkowskie" capital="Piotrkow Trybunalski"/>
+  <province name="Plockie" capital="Plock"/>
+  <province name="Poznanskie" capital="Poznan"/>
+  <province name="Przemyskie" capital="Przemysl"/>
+  <province name="Radomskie" capital="Radom"/>
+  <province name="Rzeszowskie" capital="Rzeszow"/>
+  <province name="Siedleckie" capital="Siedlce"/>
+  <province name="Sieradzkie" capital="Sieradz"/>
+  <province name="Skierniewickie" capital="Skierniewice"/>
+  <province name="Slupskie" capital="Slupsk"/>
+  <province name="Suwalskie" capital="Suwalki"/>
+  <province name="Szczecinskie" capital="Szczecin"/>
+  <province name="Tarnobrzeskie" capital="Tarnobrzeg"/>
+  <province name="Tarnowskie" capital="Tarnow"/>
+  <province name="Torunskie" capital="Torun"/>
+  <province name="Walbrzyskie" capital="Walbrzych">
+    <mountain name="Schneekoppe" height="1602" latitude="50.7" longitude="15.7"/>
+  </province>
+  <province name="Wloclawskie" capital="Wloclawek"/>
+  <province name="Wroclawskie" capital="Wroclaw"/>
+  <province name="Zamojskie" capital="Zamosc"/>
+  <province name="Zielonogorskie" capital="Zielona Gora"/>
+  <province name="Cherkaska" capital="Cherkasy"/>
+  <province name="Chernihivska" capital="Chernihiv"/>
+  <province name="Chernivetska" capital="Chernivtsi"/>
+  <province name="Dnipropetrovska" capital="Dnipropetrovsk"/>
+  <province name="Donetska" capital="Donetsk"/>
+  <province name="Ivano Frankivska" capital="Ivano Frankivsk"/>
+  <province name="Kharkivska" capital="Kharkiv"/>
+  <province name="Khersonska" capital="Kherson"/>
+  <province name="Khmelnytska" capital="Khmelnytskyy"/>
+  <province name="Kyyivska" capital="Kiev"/>
+  <province name="Kirovohradska" capital="Kirovohrad"/>
+  <province name="Luhanska" capital="Luhansk"/>
+  <province name="Lvivska" capital="Lviv"/>
+  <province name="Mykolayivska" capital="Mykolayiv"/>
+  <province name="Odeska" capital="Odesa"/>
+  <province name="Poltavska" capital="Poltava"/>
+  <province name="Rivnenska" capital="Rivne"/>
+  <province name="Sumska" capital="Sumy"/>
+  <province name="Ternopilska" capital="Ternopil"/>
+  <province name="Vinnytska" capital="Vinnytsya"/>
+  <province name="Volynska" capital="Lutsk"/>
+  <province name="Zakarpatska" capital="Uzhhorod"/>
+  <province name="Zaporizka" capital="Zaporizhzhya"/>
+  <province name="Zhytomyrska" capital="Zhytomyr"/>
+  <province name="Krym" capital="Simferopol"/>
+  <province name="Rep. of Karelia" capital="Petrozavodsk"/>
+  <province name="Rep. of Komi" capital="Syktyvkar">
+    <mountain name="Narodnaja" height="1895" latitude="65" longitude="60.1"/>
+  </province>
+  <province name="Arkhangelskaya oblast" capital="Arkhangelsk"/>
+  <province name="Vologodskaya oblast" capital="Vologda"/>
+  <province name="Murmanskaya oblast" capital="Murmansk"/>
+  <province name="Kaliningradskaya oblast" capital="Kaliningrad"/>
+  <province name="Sankt Peterburg" capital="Sankt Peterburg"/>
+  <province name="Leningradskaya oblast" capital="Sankt Peterburg"/>
+  <province name="Novgorodskaya oblast" capital="Novgorod"/>
+  <province name="Pskovskaya oblast" capital="Pskov"/>
+  <province name="Bryanskaya oblast" capital="Bryansk"/>
+  <province name="Vladimirskaya oblast" capital="Vladimir"/>
+  <province name="Ivanovskaya oblast" capital="Ivanovo"/>
+  <province name="Kaluzhskaya oblast" capital="Kaluga"/>
+  <province name="Kostromskaya oblast" capital="Kostroma"/>
+  <province name="Moskva" capital="Moscow"/>
+  <province name="Moskovskaya oblast" capital="Moscow"/>
+  <province name="Orjolskaya oblast" capital="Orel"/>
+  <province name="Ryazanskaya oblast" capital="Ryazan"/>
+  <province name="Smolenskaya oblast" capital="Smolensk"/>
+  <province name="Tverskaya oblast" capital="Tver"/>
+  <province name="Tulskaya oblast" capital="Tula"/>
+  <province name="Yaroslavskaya oblast" capital="Yaroslavl"/>
+  <province name="Rep. of Mariy El" capital="Yoshkar Ola"/>
+  <province name="Rep. of Mordovia" capital="Saransk"/>
+  <province name="Chuvash Republic" capital="Cheboksary"/>
+  <province name="Kirovskaya oblast" capital="Kirov"/>
+  <province name="Nizhegorodskaya oblast" capital="Nizhniy Novgorod"/>
+  <province name="Belgorodskaya oblast" capital="Belgorod"/>
+  <province name="Voronezhskaya oblast" capital="Voronezh"/>
+  <province name="Kurskaya oblast" capital="Kursk"/>
+  <province name="Lipetskaya oblast" capital="Lipetsk"/>
+  <province name="Tambovskaya oblast" capital="Tambov"/>
+  <province name="Rep. of Kalmykiya" capital="Elista"/>
+  <province name="Rep. of Tatarstan" capital="Kazan"/>
+  <province name="Astrakhanskaya oblast" capital="Astrakhan"/>
+  <province name="Volgogradskaya oblast" capital="Volgograd"/>
+  <province name="Penzenskaya oblast" capital="Penza"/>
+  <province name="Samarskaya oblast" capital="Samara"/>
+  <province name="Saratovskaya oblast" capital="Saratov"/>
+  <province name="Ulyanovskaya oblast" capital="Simbirsk"/>
+  <province name="Rostovskaya oblast" capital="Rostov no Donu"/>
+  <province name="Rep. of Bashkortostan" capital="Ufa"/>
+  <province name="Udmurt Republic" capital="Izhevsk"/>
+  <province name="Orenburgskaya oblast" capital="Orenburg"/>
+  <province name="Permskaya oblast" capital="Perm"/>
+  <province name="Rep. of Adygeya" capital="Maykop"/>
+  <province name="Rep. of Dagestan" capital="Makhachkala"/>
+  <province name="Rep. of Ingushetiya" capital="Nazran"/>
+  <province name="Kabardino Balkar Rep." capital="Nalchik">
+    <mountain name="Elbrus" height="5642" latitude="43.21" longitude="42.26"/>
+  </province>
+  <province name="Karachayevo Cherkessk Rep." capital="Cherkessk"/>
+  <province name="Rep. of North Ossetiya" capital="Vladikavkaz">
+    <mountain name="Kasbek" height="5033" latitude="42.42" longitude="44.31"/>
+  </province>
+  <province name="Chechen Rep." capital="Grozny"/>
+  <province name="Krasnodarsky kray" capital="Krasnodar"/>
+  <province name="Stavropolsky kray" capital="Stavropol"/>
+  <province name="Kurganskaya oblast" capital="Kurgan"/>
+  <province name="Sverdlovskaya oblast" capital="Yekaterinburg"/>
+  <province name="Chelyabinskaya oblast" capital="Chelyabinsk"/>
+  <province name="Rep. of Altay" capital="Gorno Altaysk">
+    <mountain name="Bjelucha" height="4506" latitude="49.48" longitude="86.4"/>
+  </province>
+  <province name="Altayskiy kray" capital="Barnaul"/>
+  <province name="Kemerovskaya oblast" capital="Kemerovo"/>
+  <province name="Novosibirskaya oblast" capital="Novosibirsk"/>
+  <province name="Omskaya oblast" capital="Omsk"/>
+  <province name="Tomskaya oblast" capital="Tomsk"/>
+  <province name="Tyumenskaya oblast" capital="Tyumen"/>
+  <province name="Rep. of Buryatiya" capital="Ulan Ude">
+    <mountain name="Zhima" height="1276" latitude="53.15" longitude="107.4"/>
+  </province>
+  <province name="Rep. of Tyva" capital="Kyzyl"/>
+  <province name="Rep. of Khakassiya" capital="Abakan"/>
+  <province name="Krasnoyarskiy kray" capital="Krasnoyarsk"/>
+  <province name="Irkutskaya oblast" capital="Irkutsk"/>
+  <province name="Chitinskaya oblast" capital="Chita"/>
+  <province name="Rep. of Sakha" capital="Yakutsk"/>
+  <province name="Yevreyskaya avt. oblast" capital="Birobidzhan"/>
+  <province name="Chukotsky ao" capital="Anadyr"/>
+  <province name="Primorsky kray" capital="Vladivostok"/>
+  <province name="Khabarovskiy kray" capital="Khabarovsk"/>
+  <province name="Amurskaya oblast" capital="Blagoveshchensk"/>
+  <province name="Kamchatskaya oblast" capital="Petropavlovsk Kamchatsky">
+    <mountain name="Kljutschewskaja Sopka" height="4750" latitude="56.1" longitude="160.6"/>
+  </province>
+  <province name="Magadanskaya oblast" capital="Magadan"/>
+  <province name="Sakhalinskaya oblast" capital="Yuzhno Sakhalinsk"/>
+  <province name="Antwerp" capital="Antwerp"/>
+  <province name="Brabant" capital="Brussels"/>
+  <province name="East Flanders" capital="Ghent"/>
+  <province name="Hainaut" capital="Mons"/>
+  <province name="Liege" capital="Liege"/>
+  <province name="Limburg" capital="Hasselt"/>
+  <province name="Luxembourg" capital="Arlon"/>
+  <province name="Namur" capital="Namur"/>
+  <province name="West Flanders" capital="Brugge"/>
+  <province name="Luxembourg" capital="Luxembourg"/>
+  <province name="Groningen" capital="Groningen"/>
+  <province name="Friesland" capital="Leeuwarden"/>
+  <province name="Drenthe" capital="Assen"/>
+  <province name="Overijssel" capital="Zwolle"/>
+  <province name="Flevoland" capital="Lelystad"/>
+  <province name="Gelderland" capital="Arnhem"/>
+  <province name="Utrecht" capital="Utrecht"/>
+  <province name="Noord Holland" capital="Haarlem"/>
+  <province name="Zuid Holland" capital="s Gravenhage"/>
+  <province name="Zeeland" capital="Middelburg"/>
+  <province name="Noord Brabant" capital="s Hertogenbosch"/>
+  <province name="Limburg" capital="Maastricht"/>
+  <province name="Bosnia and Herzegovina" capital="Sarajevo"/>
+  <province name="Croatia" capital="Zagreb"/>
+  <province name="Bulgaria" capital="Sofia">
+    <mountain name="Musala" height="2925" latitude="42.2" longitude="23.6"/>
+  </province>
+  <province name="Alba" capital="Alba Iulia"/>
+  <province name="Arad" capital="Arad"/>
+  <province name="Arges" capital="Pitesti">
+    <mountain name="Moldoveanu" height="2544" latitude="45.6" longitude="24.7"/>
+  </province>
+  <province name="Bacau" capital="Bacau"/>
+  <province name="Bihor" capital="Oradea"/>
+  <province name="Bistrita Nasaud" capital="Bistrita"/>
+  <province name="Botosani" capital="Botosani"/>
+  <province name="Braila" capital="Braila"/>
+  <province name="Brasov" capital="Brasov">
+    <mountain name="Moldoveanu" height="2544" latitude="45.6" longitude="24.7"/>
+  </province>
+  <province name="Bucuresti" capital="Bucharest"/>
+  <province name="Buzau" capital="Buzau"/>
+  <province name="Calarasi" capital="Calarasi"/>
+  <province name="Caras Severin" capital="Resita"/>
+  <province name="Cluj" capital="Cluj Napoca"/>
+  <province name="Constanta" capital="Constanta"/>
+  <province name="Covasna" capital="Sfintu Gheorghe"/>
+  <province name="Dimbovita" capital="Tirgoviste"/>
+  <province name="Dolj" capital="Craiova"/>
+  <province name="Galati" capital="Galati"/>
+  <province name="Giurgiu" capital="Giurgiu"/>
+  <province name="Gorj" capital="Tirgu Jiu"/>
+  <province name="Harghita" capital="Miercurea Ciuc"/>
+  <province name="Hunedoara" capital="Deva"/>
+  <province name="Ialomita" capital="Slobozia"/>
+  <province name="Iasi" capital="Iasi"/>
+  <province name="Maramures" capital="Baia Mare"/>
+  <province name="Mehedinti" capital="Drobeta Turnu Severin"/>
+  <province name="Mures" capital="Tirgu Mures"/>
+  <province name="Neamt" capital="Piatra Neamt"/>
+  <province name="Olt" capital="Slatina"/>
+  <province name="Prahova" capital="Ploiesti"/>
+  <province name="Salaj" capital="Zalau"/>
+  <province name="Satu Mare" capital="Satu Mare"/>
+  <province name="Sibiu" capital="Sibiu">
+    <mountain name="Moldoveanu" height="2544" latitude="45.6" longitude="24.7"/>
+  </province>
+  <province name="Suceava" capital="Suceava"/>
+  <province name="Teleorman" capital="Alexandria"/>
+  <province name="Timis" capital="Timisoara"/>
+  <province name="Tulcea" capital="Tulcea"/>
+  <province name="Vaslui" capital="Vaslui"/>
+  <province name="Vilcea" capital="Rimnicu Vilcea"/>
+  <province name="Vrancea" capital="Focsani"/>
+  <province name="Adana" capital="Adana"/>
+  <province name="Adiyaman" capital="Adiyaman"/>
+  <province name="Afyon" capital="Afyon"/>
+  <province name="Agri" capital="Agri">
+    <mountain name="Ararat" height="5165" latitude="39.7" longitude="44.3"/>
+  </province>
+  <province name="Aksaray" capital="Aksaray"/>
+  <province name="Amasya" capital="Amasya"/>
+  <province name="Ankara" capital="Ankara"/>
+  <province name="Antalya" capital="Antalya"/>
+  <province name="Artvin" capital="Artvin"/>
+  <province name="Aydin" capital="Aydin"/>
+  <province name="Balikesir" capital="Balikesir"/>
+  <province name="Batman" capital="Batman"/>
+  <province name="Bayburt" capital="Bayburt"/>
+  <province name="Bilecik" capital="Bilecik"/>
+  <province name="Bingol" capital="Bingol"/>
+  <province name="Bitlis" capital="Bitlis"/>
+  <province name="Bolu" capital="Bolu"/>
+  <province name="Burdur" capital="Burdur"/>
+  <province name="Bursa" capital="Bursa"/>
+  <province name="Canakkale" capital="Canakkale"/>
+  <province name="Cankiri" capital="Cankiri"/>
+  <province name="Corum" capital="Corum"/>
+  <province name="Denizli" capital="Denizli"/>
+  <province name="Diyarbakir" capital="Diyarbakir"/>
+  <province name="Edirne" capital="Edirne"/>
+  <province name="Elazig" capital="Elazig"/>
+  <province name="Erzincan" capital="Erzincan"/>
+  <province name="Erzurum" capital="Erzurum"/>
+  <province name="Eskisehir" capital="Eskisehir"/>
+  <province name="Gaziantep" capital="Gaziantep"/>
+  <province name="Giresun" capital="Giresun"/>
+  <province name="Gumushane" capital="Gumushane"/>
+  <province name="Hakkari" capital="Hakkari"/>
+  <province name="Hatay" capital="Antakya"/>
+  <province name="Icel" capital="Mersin"/>
+  <province name="Isparta" capital="Isparta"/>
+  <province name="Istanbul" capital="Istanbul"/>
+  <province name="Izmir" capital="Izmir"/>
+  <province name="Karaman" capital="Karaman"/>
+  <province name="Karamanmaras" capital="Karaman Maras"/>
+  <province name="Kars" capital="Kars"/>
+  <province name="Kastamonu" capital="Kastamonu"/>
+  <province name="Kayseri" capital="Kayseri"/>
+  <province name="Kirikkale" capital="Kirikkale"/>
+  <province name="Kirklareli" capital="Kirklareli"/>
+  <province name="Kirsehir" capital="Kirsehir"/>
+  <province name="Kocaeli" capital="Izmit"/>
+  <province name="Konya" capital="Konya"/>
+  <province name="Kutahya" capital="Kutahya"/>
+  <province name="Malatya" capital="Malatya"/>
+  <province name="Manisa" capital="Manisa"/>
+  <province name="Mardin" capital="Mardin"/>
+  <province name="Mugla" capital="Mugla"/>
+  <province name="Mus" capital="Mus"/>
+  <province name="Nevsehir" capital="Nevsehir"/>
+  <province name="Nigde" capital="Nigde">
+    <mountain name="Demirkazik" height="3756" latitude="37.8" longitude="35.2"/>
+  </province>
+  <province name="Ordu" capital="Ordu"/>
+  <province name="Rize" capital="Rize"/>
+  <province name="Sakarya" capital="Sakarya"/>
+  <province name="Samsun" capital="Samsun"/>
+  <province name="Sanliurfa" capital="Urfa"/>
+  <province name="Siirt" capital="Siirt"/>
+  <province name="Sinop" capital="Sinop"/>
+  <province name="Sirnak" capital="Sirnak"/>
+  <province name="Sivas" capital="Sivas"/>
+  <province name="Tekirdag" capital="Tekirdag"/>
+  <province name="Tokat" capital="Tokat"/>
+  <province name="Trabzon" capital="Trabzon"/>
+  <province name="Tunceli" capital="Tunceli"/>
+  <province name="Usak" capital="Usak"/>
+  <province name="Van" capital="Van"/>
+  <province name="Yozgat" capital="Yozgat"/>
+  <province name="Zonguldak" capital="Zonguldak"/>
+  <province name="Denmark" capital="Copenhagen"/>
+  <province name="Estonia" capital="Tallinn"/>
+  <province name="Faroe Islands" capital="Torshavn"/>
+  <province name="Aland" capital="Mariehamn"/>
+  <province name="Haeme" capital="Haemeenlinna"/>
+  <province name="Kuopio" capital="Kuopio"/>
+  <province name="Kymi" capital="Kotka"/>
+  <province name="Lappia" capital="Rovaniemi">
+    <mountain name="Haltiatunturi" height="1328" latitude="67" longitude="21.4"/>
+  </province>
+  <province name="Mikkeli" capital="Mikkeli"/>
+  <province name="Suomi" capital="Jyvaeskylae"/>
+  <province name="Pohjols-Karjala" capital="Joensuu"/>
+  <province name="Oulu" capital="Oulu"/>
+  <province name="Turku-Pori" capital="Turku"/>
+  <province name="Uusimaa" capital="Helsinki"/>
+  <province name="Vaasa" capital="Vaasa"/>
+  <province name="Oslo" capital="Oslo"/>
+  <province name="Akershus" capital="Oslo"/>
+  <province name="Oestfold" capital="Moss"/>
+  <province name="Hedmark" capital="Hamar"/>
+  <province name="Oppland" capital="Lillehammer">
+    <mountain name="Galdhoeppig" height="2469" latitude="61.4" longitude="8"/>
+    <mountain name="Glittertind" height="2452" latitude="61.4" longitude="8.1"/>
+    <mountain name="Snoehetta" height="2286" latitude="62.1" longitude="9"/>
+  </province>
+  <province name="Buskerud" capital="Drammen"/>
+  <province name="Vestfold" capital="Toensberg"/>
+  <province name="Telemark" capital="Skien"/>
+  <province name="Aust Agder" capital="Arendal"/>
+  <province name="Vest Agder" capital="Kristiansand"/>
+  <province name="Rogaland" capital="Stavanger"/>
+  <province name="Hordaland" capital="Bergen">
+    <mountain name="Joekul" height="1876" latitude="60.3" longitude="7.2"/>
+  </province>
+  <province name="Sogn og Fjordane" capital="Hermannsverk">
+    <mountain name="Jostedalsbre" height="2083" latitude="61.4" longitude="5.5"/>
+  </province>
+  <province name="Moere og Romsdal" capital="Molde"/>
+  <province name="Soer Trondelag" capital="Trondheim"/>
+  <province name="Nord Trondelag" capital="Steinkjer"/>
+  <province name="Nordland" capital="Bodoe">
+    <mountain name="Sulitjelma" height="1914" latitude="67.1" longitude="16.2"/>
+  </province>
+  <province name="Troms" capital="Tromsoe"/>
+  <province name="Finnmark" capital="Vadsoe"/>
+  <province name="Alvsborg" capital="Vanersborg"/>
+  <province name="Blekinge" capital="Karlskrona"/>
+  <province name="Gavleborg" capital="Gavle"/>
+  <province name="Goteborg och Bohus" capital="Goteborg"/>
+  <province name="Gotland" capital="Visby"/>
+  <province name="Halland" capital="Halmstad"/>
+  <province name="Jamtland" capital="Ostersund"/>
+  <province name="Jonkoping" capital="Jonkoping"/>
+  <province name="Kalmar" capital="Kalmar"/>
+  <province name="Dalarna" capital="Falun"/>
+  <province name="Kristianstad" capital="Kristianstad"/>
+  <province name="Kronoberg" capital="Vaxjo"/>
+  <province name="Malmohus" capital="Malmo"/>
+  <province name="Norrbotten" capital="Lulea">
+    <mountain name="Kebnekaise" height="2114" latitude="67.5" longitude="18.3"/>
+    <mountain name="Portefjaellen" height="2021" latitude="67.1" longitude="17.4"/>
+    <mountain name="Sarektjokko" height="2090" latitude="67.3" longitude="17.4"/>
+    <mountain name="Sulitjelma" height="1914" latitude="67.1" longitude="16.2"/>
+    <mountain name="Tarrekaise" height="1850" latitude="67" longitude="17.3"/>
+  </province>
+  <province name="Orebro" capital="Orebro"/>
+  <province name="Ostergotland" capital="Linkoping"/>
+  <province name="Skaraborg" capital="Mariestad"/>
+  <province name="Sodermanland" capital="Nykoping"/>
+  <province name="Stockholm" capital="Stockholm"/>
+  <province name="Uppsala" capital="Uppsala"/>
+  <province name="Varmland" capital="Karlstad"/>
+  <province name="Vasterbotten" capital="Umea"/>
+  <province name="Vasternorrland" capital="Harnosand"/>
+  <province name="Vastmanland" capital="Vasteras"/>
+  <province name="Monaco" capital="Monaco"/>
+  <province name="Gibraltar" capital="Gibraltar"/>
+  <province name="Guernsey" capital="Saint Peter Port"/>
+  <province name="Holy See" capital="Vatican City"/>
+  <province name="Iceland" capital="Reykjavik">
+    <mountain name="Oeraefajoekull" height="2119" latitude="64.1" longitude="-17"/>
+    <mountain name="Snoefell" height="1833" latitude="64.5" longitude="-15.2"/>
+  </province>
+  <province name="Ireland" capital="Dublin"/>
+  <province name="San Marino" capital="San Marino"/>
+  <province name="Jersey" capital="Saint Helier"/>
+  <province name="Malta" capital="Valletta"/>
+  <province name="Man" capital="Douglas"/>
+  <province name="Moldova" capital="Chisinau"/>
+  <province name="Aveiro" capital="Aveiro"/>
+  <province name="Beja" capital="Beja"/>
+  <province name="Braga" capital="Braga"/>
+  <province name="Braganca" capital="Braganca"/>
+  <province name="Castelo Branco" capital="Castelo Branco"/>
+  <province name="Coimbra" capital="Coimbra"/>
+  <province name="Evora" capital="Evora"/>
+  <province name="Algarve" capital="Faro"/>
+  <province name="Guarda" capital="Guarda">
+    <mountain name="Torre de Estrela" height="1993" latitude="40.3" longitude="-7.6"/>
+  </province>
+  <province name="Leiria" capital="Leiria"/>
+  <province name="Lisbon" capital="Lisbon"/>
+  <province name="Portalegre" capital="Portalegre"/>
+  <province name="Porto" capital="Porto"/>
+  <province name="Santarem" capital="Santarem"/>
+  <province name="Setubal" capital="Setubal"/>
+  <province name="Viana do Castelo" capital="Viana do Castelo"/>
+  <province name="Vila Real" capital="Vila Real"/>
+  <province name="Viseu" capital="Viseu"/>
+  <province name="Azores" capital="Ponta Delgada">
+    <mountain name="Pico" height="2351" latitude="38.5" longitude="-28.4"/>
+  </province>
+  <province name="Madeira" capital="Funchal">
+    <mountain name="Pico Ruivo" height="1861" latitude="31" longitude="-16"/>
+  </province>
+  <province name="Svalbard" capital="Longyearbyen"/>
+  <province name="Avon" capital="Bristol"/>
+  <province name="Bedfordshire" capital="Bedford"/>
+  <province name="Berkshire" capital="Reading"/>
+  <province name="Buckinghamshire" capital="Aylesbury"/>
+  <province name="Cambridgeshire" capital="Cambridge"/>
+  <province name="Cheshire" capital="Chester"/>
+  <province name="Cleveland" capital="Middlesbrough"/>
+  <province name="Cornwall" capital="Truro"/>
+  <province name="Cumbria" capital="Carlisle"/>
+  <province name="Derbyshire" capital="Matlock"/>
+  <province name="Devon" capital="Exeter"/>
+  <province name="Dorset" capital="Dorchester"/>
+  <province name="Durham" capital="Durham"/>
+  <province name="East Sussex" capital="Lewes"/>
+  <province name="Essex" capital="Chelmsford"/>
+  <province name="Gloucestershire" capital="Gloucester"/>
+  <province name="Greater London" capital="London"/>
+  <province name="Greater Manchester" capital="Manchester"/>
+  <province name="Hampshire" capital="Winchester"/>
+  <province name="Hereford and Worcester" capital="Worcester"/>
+  <province name="Hertfordshire" capital="Hertford"/>
+  <province name="Humberside" capital="Hull"/>
+  <province name="Isle of Wight" capital="Newport"/>
+  <province name="Kent" capital="Maidstone"/>
+  <province name="Lancashire" capital="Preston"/>
+  <province name="Leicestershire" capital="Leichester"/>
+  <province name="Lincolnshire" capital="Lincoln"/>
+  <province name="Merseyside" capital="Liverpool"/>
+  <province name="Norfolk" capital="Norwich"/>
+  <province name="Northamptonshire" capital="Northampton"/>
+  <province name="Northumberland" capital="Newcastle upon Tyne"/>
+  <province name="North Yorkshire" capital="Northallerton"/>
+  <province name="Nottinghamshire" capital="Nottingham"/>
+  <province name="Oxfordshire" capital="Oxford"/>
+  <province name="Shropshire" capital="Shrewsbury"/>
+  <province name="Somerset" capital="Taunton"/>
+  <province name="South Yorkshire" capital="Barnsley"/>
+  <province name="Staffordshire" capital="Stafford"/>
+  <province name="Suffolk" capital="Ipswich"/>
+  <province name="Surrey" capital="Kingston"/>
+  <province name="Tyne and Wear" capital="Newcastle upon Tyne"/>
+  <province name="Warwickshire" capital="Warwick"/>
+  <province name="West Midlands" capital="Birmingham"/>
+  <province name="West Sussex" capital="Chichester"/>
+  <province name="West Yorkshire" capital="Wakefield"/>
+  <province name="Wiltshire" capital="Trowbridge"/>
+  <province name="Borders" capital="Newtown St. Boswells"/>
+  <province name="Central" capital="Stirling"/>
+  <province name="Dumfries and Galloway" capital="Dumfries"/>
+  <province name="Fife" capital="Glenrothes"/>
+  <province name="Grampian" capital="Aberdeen"/>
+  <province name="Highland" capital="Inverness">
+    <mountain name="Ben Nevis" height="1344" latitude="56.8" longitude="-5"/>
+  </province>
+  <province name="Lothian" capital="Edinburgh"/>
+  <province name="Strathclyde" capital="Glasgow"/>
+  <province name="Tayside" capital="Dundee"/>
+  <province name="Aberconwy and Colwyn" capital="Colwyn Bay"/>
+  <province name="Anglesey" capital="Llangefni"/>
+  <province name="Blaenau Gwent" capital="Ebbw Vale"/>
+  <province name="Bridgend" capital="Bridgend"/>
+  <province name="Caerphilly" capital="Ystrad Fawr"/>
+  <province name="Cardiff" capital="Cardiff"/>
+  <province name="Carmarthenshire" capital="Carmarthen"/>
+  <province name="Ceredigion" capital="Aberystwyth"/>
+  <province name="Denbighshire" capital="Ruthin"/>
+  <province name="Flintshire" capital="Mold"/>
+  <province name="Gwynedd" capital="Caernarfon"/>
+  <province name="Merthyr Tydfil" capital="Merthyr Tydfil"/>
+  <province name="Monmouthshire" capital="Cwmbran"/>
+  <province name="Terengganu" capital="Kuala Terengganu"/>
+  <province name="Fed. Terr. of Kuala Lumpur" capital="Kuala Lumpur"/>
+  <province name="Fed. Terr. of Labuan" capital="Labuan"/>
+  <province name="Laos" capital="Vientiane"/>
+  <province name="Thailand" capital="Bangkok"/>
+  <province name="Cambodia" capital="Phnom Penh"/>
+  <province name="Vietnam" capital="Hanoi"/>
+  <province name="Almaty" capital="Almaty"/>
+  <province name="Aqmola" capital="Aqmola"/>
+  <province name="Aqtobe" capital="Aqtobe"/>
+  <province name="Atyrau" capital="Atyrau"/>
+  <province name="Batys Qazaqstan" capital="Oral"/>
+  <province name="Kokchetau" capital="Kokchetau"/>
+  <province name="Mangghystau" capital="Aqtau"/>
+  <province name="Ongtustik Qazaqstan" capital="Shymkent"/>
+  <province name="Pavlodar" capital="Pavlodar"/>
+  <province name="Qaraghandy" capital="Karaganda"/>
+  <province name="Qostanay" capital="Qostanay"/>
+  <province name="Qyzylorda" capital="Qyzylorda"/>
+  <province name="Semey" capital="Semey"/>
+  <province name="Shyghys Qazaqstan" capital="Oskemen">
+    <mountain name="Bjelucha" height="4506" latitude="49.48" longitude="86.4"/>
+  </province>
+  <province name="Soltustik Qazaqstan" capital="Petropavl"/>
+  <province name="Taldyqorghan" capital="Taldyqorghan"/>
+  <province name="Torghay" capital="Arqalyq"/>
+  <province name="Zhambyl" capital="Zhambyl"/>
+  <province name="Zhezkazghan" capital="Zhezkazghan"/>
+  <province name="Almaty (munic.)" capital="Almaty"/>
+  <province name="Leninsk (munic.)" capital="Leninsk"/>
+  <province name="North Korea" capital="Pyongyang">
+    <mountain name="Changbai Shan" height="2744" latitude="42" longitude="128.1"/>
+  </province>
+  <province name="Kyrgyzstan" capital="Bishkek">
+    <mountain name="Pik Chan-Tengri" height="6995" latitude="43" longitude="80"/>
+    <mountain name="Pik Lenina" height="7134" latitude="39.2" longitude="72.55"/>
+    <mountain name="Pik Pobeda" height="7439" latitude="42" longitude="80.1"/>
+  </province>
+  <province name="Hong Kong" capital="Hong Kong"/>
+  <province name="Macau" capital="Macau"/>
+  <province name="Mongolia" capital="Ulaanbaatar"/>
+  <province name="Nepal" capital="Kathmandu">
+    <mountain name="Annapurna" height="8091" latitude="28.6" longitude="83.8"/>
+    <mountain name="Cho Oyu" height="8188" latitude="28.35" longitude="86.65"/>
+    <mountain name="Dhaulagiri" height="8167" latitude="28.7" longitude="83.5"/>
+    <mountain name="Kangchendzonga" height="8586" latitude="27.7" longitude="88.1"/>
+    <mountain name="Lhotse" height="8516" latitude="28" longitude="86.9"/>
+    <mountain name="Makalu" height="8485" latitude="27.9" longitude="87.1"/>
+    <mountain name="Manaslu" height="8163" latitude="28.55" longitude="84.6"/>
+    <mountain name="Mount Everest" height="8848" latitude="28" longitude="86.9"/>
+  </province>
+  <province name="Christmas Island" capital="Flying Fish Cove"/>
+  <province name="Cocos Islands" capital="West Island"/>
+  <province name="Cyprus" capital="Nicosia">
+    <mountain name="Olympos" height="1952" latitude="34.9" longitude="32.85"/>
+  </province>
+  <province name="Gaza Strip" capital=""/>
+  <province name="Central" capital="Ramla"/>
+  <province name="Haifa" capital="Haifa"/>
+  <province name="North" capital="Nazareth"/>
+  <province name="Tel Aviv" capital="Tel Aviv"/>
+  <province name="South" capital="Beer Sheva"/>
+  <province name="El Bahr el Ahmar" capital="Hurghada"/>
+  <province name="Matruh" capital="Marsa Matruh"/>
+  <province name="Sina al Janubiyah" capital="El Tur">
+    <mountain name="Jabal Katrina" height="2637" latitude="28.5" longitude="33.95"/>
+  </province>
+  <province name="Sina ash Shamaliyah" capital="El Arish"/>
+  <province name="El Wadi el Jadid" capital="El Kharga"/>
+  <province name="El Buhayra" capital="Damanhur"/>
+  <province name="El Daqahliya" capital="El Mansura"/>
+  <province name="Dumyat" capital="Dumyat"/>
+  <province name="El Gharbiya" capital="Tanta"/>
+  <province name="Ismailiya" capital="Ismailiya"/>
+  <province name="Kafr el Sheikh" capital="Kafr el Sheikh"/>
+  <province name="El Minufiya" capital="Shibin el Kom"/>
+  <province name="El Qalubiya" capital="Benha"/>
+  <province name="Sharqiya" capital="Zagazig"/>
+  <province name="Aswan" capital="Aswan"/>
+  <province name="Asyut" capital="Asyut"/>
+  <province name="Beni Suef" capital="Beni Suef"/>
+  <province name="El Faiyum" capital="El Faiyum"/>
+  <province name="El Giza" capital="El Giza"/>
+  <province name="El Minya" capital="El Minya"/>
+  <province name="Qena" capital="Qena"/>
+  <province name="Sohag" capital="Sohag"/>
+  <province name="Bur Said (munic.)" capital="Bur Said"/>
+  <province name="El Iskandariya" capital="Alexandria"/>
+  <province name="El Qahira" capital="Cairo"/>
+  <province name="El Suweiz" capital="El Suweiz"/>
+  <province name="Indonesia" capital="Jakarta">
+    <mountain name="Gunung Agung" height="3142" latitude="-8.3" longitude="115.5"/>
+    <mountain name="Gunung Binaiya" height="3027" latitude="-3.1" longitude="129.3"/>
+    <mountain name="Kerinci" height="3805" latitude="-1.7" longitude="101.45"/>
+    <mountain name="Krakatau" height="813" latitude="-6.1" longitude="105.4"/>
+    <mountain name="Leuser" height="3466" latitude="3" longitude="98"/>
+    <mountain name="Merapi" height="2914" latitude="-7.5" longitude="110.4"/>
+    <mountain name="Puncak Jaya" height="4884" latitude="-4.1" longitude="137.11"/>
+    <mountain name="Rantekombola" height="3455" latitude="-3.6" longitude="120"/>
+    <mountain name="Rinjani" height="3726" latitude="-8.4" longitude="116.5"/>
+    <mountain name="Semeru" height="3676" latitude="-8.1" longitude="112.9"/>
+    <mountain name="Tambora" height="2850" latitude="-8.2" longitude="118"/>
+  </province>
+  <province name="Timor-Leste" capital="Dili">
+    <mountain name="Tatamailau" height="2963" latitude="-8.9" longitude="125.5"/>
+  </province>
+  <province name="Papua New Guinea" capital="Port Moresby">
+    <mountain name="Mt. Balbi" height="2715" latitude="-5.9" longitude="155"/>
+    <mountain name="Mt. Giluwe" height="4368" latitude="-6.05" longitude="143.9"/>
+    <mountain name="Mt. Wilhelm" height="4509" latitude="-5.8" longitude="145"/>
+  </province>
+  <province name="Al Anbar" capital="Ar Ramadi"/>
+  <province name="Babil" capital="Al Hillah"/>
+  <province name="Baghdad" capital="Baghdad"/>
+  <province name="Al Basrah" capital="Al Basrah"/>
+  <province name="Dhi Qar" capital="An Nasiriyah"/>
+  <province name="Diyala" capital="Baqubah"/>
+  <province name="Karbala" capital="Karbala"/>
+  <province name="Maysan" capital="Al Amarah"/>
+  <province name="Al Muthanna" capital="As Samawah"/>
+  <province name="An Najaf" capital="An Najaf"/>
+  <province name="Ninawa" capital="Mosul"/>
+  <province name="Al Qadisiyah" capital="Diwaniyah"/>
+  <province name="Salah ad Din" capital="Samarra"/>
+  <province name="Ad Tamim" capital="Kirkuk"/>
+  <province name="Wasit" capital="Al Kut"/>
+  <province name="Dahuk" capital="Dahuk"/>
+  <province name="Arbil" capital="Arbil"/>
+  <province name="As Sulaymaniyah" capital="As Sulaymaniyah"/>
+  <province name="Jordan" capital="Amman"/>
+  <province name="Kuwait" capital="Kuwait"/>
+  <province name="Saudi Arabia" capital="Riyadh"/>
+  <province name="Syria" capital="Damascus"/>
+  <province name="Lebanon" capital="Beirut">
+    <mountain name="Jabal Lubnan" height="3088" latitude="34.3" longitude="36.1"/>
+  </province>
+  <province name="West Bank" capital=""/>
+  <province name="Hokkaido" capital="Sapporo">
+    <mountain name="Asahi-Dake" height="2290" latitude="43.65" longitude="142.85"/>
+  </province>
+  <province name="Aomori" capital="Aomori"/>
+  <province name="Iwate" capital="Morioka"/>
+  <province name="Miyagi" capital="Sendai"/>
+  <province name="Akita" capital="Akita"/>
+  <province name="Yamagata" capital="Yamagata"/>
+  <province name="Fukushima" capital="Fukushima"/>
+  <province name="Ibaraki" capital="Mito"/>
+  <province name="Tochigi" capital="Utsonomiya"/>
+  <province name="Gumma" capital="Maebashi"/>
+  <province name="Saitama" capital="Urawa"/>
+  <province name="Chiba" capital="Chiba"/>
+  <province name="Tokyo" capital="Tokyo"/>
+  <province name="Kanagawa" capital="Yokohama"/>
+  <province name="Niigata" capital="Niigata"/>
+  <province name="Toyama" capital="Toyama"/>
+  <province name="Ishikawa" capital="Kanazawa"/>
+  <province name="Fukui" capital="Fukui"/>
+  <province name="Yamanashi" capital="Kofu">
+    <mountain name="Fujisan" height="3776" latitude="35" longitude="139"/>
+  </province>
+  <province name="Nagano" capital="Nagano">
+    <mountain name="Hotaka-Dake" height="3190" latitude="36" longitude="138"/>
+  </province>
+  <province name="Gifu" capital="Gifu">
+    <mountain name="Hotaka-Dake" height="3190" latitude="36" longitude="138"/>
+  </province>
+  <province name="Shizuoka" capital="Shizuoka">
+    <mountain name="Fujisan" height="3776" latitude="35" longitude="139"/>
+  </province>
+  <province name="Aichi" capital="Nagoya"/>
+  <province name="Mie" capital="Tsu"/>
+  <province name="Shiga" capital="Otsu"/>
+  <province name="Kyoto" capital="Kyoto"/>
+  <province name="Osaka" capital="Osaka"/>
+  <province name="Hyogo" capital="Kobe"/>
+  <province name="Nara" capital="Nara"/>
+  <province name="Wakayama" capital="Wakayama"/>
+  <province name="Tottori" capital="Tottori"/>
+  <province name="Shimane" capital="Matsue"/>
+  <province name="Okayama" capital="Okayama"/>
+  <province name="Hiroshima" capital="Hiroshima"/>
+  <province name="Yamaguchi" capital="Yamaguchi"/>
+  <province name="Tokushima" capital="Tokushima"/>
+  <province name="Kagawa" capital="Takamatsu"/>
+  <province name="Ehime" capital="Matsuyama"/>
+  <province name="Kochi" capital="Kochi"/>
+  <province name="Fukuoka" capital="Fukuoka"/>
+  <province name="Saga" capital="Saga"/>
+  <province name="Nagasaki" capital="Nagasaki"/>
+  <province name="Kumamoto" capital="Kumamoto"/>
+  <province name="Oita" capital="Oita"/>
+  <province name="Miyazaki" capital="Miyazaki"/>
+  <province name="Kagoshima" capital="Kagoshima"/>
+  <province name="Okinawa" capital="Naha"/>
+  <province name="South Korea" capital="Seoul"/>
+  <province name="Maldives" capital="Male"/>
+  <province name="Oman" capital="Muscat"/>
+  <province name="Abu Dhabi" capital=""/>
+  <province name="Ajman" capital=""/>
+  <province name="Dubayy" capital=""/>
+  <province name="Al Fujayrah" capital=""/>
+  <province name="Ras al Khaymah" capital=""/>
+  <province name="Ash Shariqah" capital=""/>
+  <province name="Umm al Qaywayn" capital=""/>
+  <province name="Yemen" capital="Sanaa">
+    <mountain name="Jabal Shuayb" height="3760" latitude="15.5" longitude="44"/>
+  </province>
+  <province name="Philippines" capital="Manila">
+    <mountain name="Kanlaon" height="2435" latitude="10.4" longitude="123.1"/>
+    <mountain name="Mantalingajan" height="2085" latitude="9.7" longitude="118.4"/>
+    <mountain name="Mount Apo" height="2954" latitude="7" longitude="125.45"/>
+    <mountain name="Pinatubo" height="1486" latitude="15.1" longitude="120.3"/>
+    <mountain name="Pulog" height="2928" latitude="17" longitude="121"/>
+  </province>
+  <province name="Qatar" capital="Doha"/>
+  <province name="Singapore" capital="Singapore"/>
+  <province name="Sri Lanka" capital="Colombo">
+    <mountain name="Pidurutalagala" height="2524" latitude="7" longitude="80.8"/>
+  </province>
+  <province name="Taiwan" capital="Taipei">
+    <mountain name="Yu Shan" height="3950" latitude="23.5" longitude="121"/>
+  </province>
+  <province name="Anguilla" capital="The Valley"/>
+  <province name="Antigua and Barbuda" capital="Saint Johns"/>
+  <province name="Aruba" capital="Oranjestad"/>
+  <province name="Bahamas" capital="Nassau"/>
+  <province name="Barbados" capital="Bridgetown"/>
+  <province name="Belize" capital="Belmopan"/>
+  <province name="Guatemala" capital="Guatemala City">
+    <mountain name="Tajumulco" height="4220" latitude="15" longitude="-91.9"/>
+  </province>
+  <province name="Aguascalientes" capital="Aguascalientes"/>
+  <province name="Baja California" capital="Mexicali"/>
+  <province name="Baja California Sur" capital="La Paz"/>
+  <province name="Campeche" capital="Campeche"/>
+  <province name="Chiapas" capital="Tuxtla Gutierrez"/>
+  <province name="Chihuahua" capital="Chihuahua"/>
+  <province name="Coahuila" capital="Saltillo"/>
+  <province name="Colima" capital="Colima"/>
+  <province name="Durango" capital="Durango"/>
+  <province name="Guanajuato" capital="Guanajuato"/>
+  <province name="Guerrero" capital="Chilpancingo"/>
+  <province name="Hidalgo" capital="Pachuca de Soto"/>
+  <province name="Jalisco" capital="Guadalajara">
+    <mountain name="Nevado de Colima" height="4330" latitude="20" longitude="-104"/>
+  </province>
+  <province name="Mexico, Estado de" capital="Toluca de Lerdo">
+    <mountain name="Nevado de Toluca" height="4558" latitude="19" longitude="-99"/>
+    <mountain name="Popocatepetl" height="5450" latitude="19" longitude="-98"/>
+  </province>
+  <province name="Michoacan" capital="Morelia"/>
+  <province name="Morelos" capital="Cuernavaca">
+    <mountain name="Popocatepetl" height="5450" latitude="19" longitude="-98"/>
+  </province>
+  <province name="Nayarit" capital="Tepic"/>
+  <province name="Nuevo Leon" capital="Monterrey"/>
+  <province name="Oaxaca" capital="Oaxaca"/>
+  <province name="Puebla" capital="Puebla">
+    <mountain name="Citlaltepetl (Pico de Orizaba)" height="5700" latitude="19" longitude="-97"/>
+    <mountain name="Iztaccihuatl" height="5286" latitude="19.2" longitude="-98.6"/>
+    <mountain name="Popocatepetl" height="5450" latitude="19" longitude="-98"/>
+  </province>
+  <province name="Queretaro" capital="Queretaro"/>
+  <province name="Quintana Roo" capital="Chetumal"/>
+  <province name="San Luis Potosi" capital="San Luis Potosi"/>
+  <province name="Sinaloa" capital="Culiacan"/>
+  <province name="Sonora" capital="Hermosillo"/>
+  <province name="Tabasco" capital="Villahermosa"/>
+  <province name="Tamaulipas" capital="Ciudad Victoria"/>
+  <province name="Tlaxcala" capital="Tlaxcala"/>
+  <province name="Veracruz" capital="Jalapa">
+    <mountain name="Citlaltepetl (Pico de Orizaba)" height="5700" latitude="19" longitude="-97"/>
+  </province>
+  <province name="Yucatan" capital="Merida"/>
+  <province name="Zacatecas" capital="Zacatecas"/>
+  <province name="Distrito Federal" capital="Mexico City"/>
+  <province name="Bermuda" capital="Hamilton"/>
+  <province name="British Virgin Islands" capital="Road Town"/>
+  <province name="Alberta" capital="Edmonton">
+    <mountain name="Mt Columbia" height="3747" latitude="52.15" longitude="-117.44"/>
+  </province>
+  <province name="British Columbia" capital="Victoria">
+    <mountain name="Mt Columbia" height="3747" latitude="52.15" longitude="-117.44"/>
+    <mountain name="Mt Fairweather" height="4663" latitude="58.9" longitude="-137.5"/>
+    <mountain name="Mt Robson" height="3954" latitude="52.3" longitude="-119.1"/>
+    <mountain name="Mt Waddington" height="4019" latitude="51.4" longitude="-125.26"/>
+  </province>
+  <province name="Manitoba" capital="Winnipeg"/>
+  <province name="New Brunswick" capital="Fredericton"/>
+  <province name="Newfoundland" capital="Saint Johns"/>
+  <province name="Northwest Territories" capital="Yellowknife">
+    <mountain name="Barbeau Peak" height="2616" latitude="81.9" longitude="-75"/>
+    <mountain name="Mt. Odin" height="2147" latitude="66.55" longitude="-65.6"/>
+  </province>
+  <province name="Nova Scotia" capital="Halifax"/>
+  <province name="Ontario" capital="Toronto"/>
+  <province name="Prince Edward Island" capital="Charlottetown"/>
+  <province name="Quebec" capital="Quebec">
+    <mountain name="Mt. Babel" height="952" latitude="51.45" longitude="-68.7"/>
+  </province>
+  <province name="Saskatchewan" capital="Regina">
+    <mountain name="Mt Bona" height="5005" latitude="61.4" longitude="-141.75"/>
+  </province>
+  <province name="Yukon Territory" capital="Whitehorse">
+    <mountain name="Mt Logan" height="5959" latitude="60.6" longitude="-140.4"/>
+    <mountain name="Mt St.Elias" height="5489" latitude="60.3" longitude="-140.9"/>
+  </province>
+  <province name="Alabama" capital="Montgomery"/>
+  <province name="Alaska" capital="Juneau">
+    <mountain name="Mt Blackburn" height="4996" latitude="61.7" longitude="-143.4"/>
+    <mountain name="Mt Bona" height="5005" latitude="61.4" longitude="-141.75"/>
+    <mountain name="Mt Fairweather" height="4663" latitude="58.9" longitude="-137.5"/>
+    <mountain name="Mt McKinley" height="6193" latitude="63.1" longitude="-151"/>
+    <mountain name="Mt Redoubt" height="3108" latitude="60.5" longitude="-152.75"/>
+    <mountain name="Mt St.Elias" height="5489" latitude="60.3" longitude="-140.9"/>
+  </province>
+  <province name="Arizona" capital="Phoenix">
+    <mountain name="Humphreys Peak" height="3850" latitude="35.3" longitude="-111.65"/>
+  </province>
+  <province name="Arkansas" capital="Little Rock"/>
+  <province name="California" capital="Sacramento">
+    <mountain name="Boundary Peak" height="4006" latitude="37.9" longitude="-118.3"/>
+    <mountain name="Mt Whitney" height="4418" latitude="36.6" longitude="-118.2"/>
+  </province>
+  <province name="Colorado" capital="Denver">
+    <mountain name="Mt Elbert" height="4401" latitude="39.1" longitude="-106.4"/>
+    <mountain name="Pikes Peak" height="4302" latitude="38.8" longitude="-105"/>
+  </province>
+  <province name="Connecticut" capital="Hartford"/>
+  <province name="Delaware" capital="Dover"/>
+  <province name="Florida" capital="Tallahassee"/>
+  <province name="Georgia" capital="Atlanta">
+    <mountain name="Kasbek" height="5033" latitude="42.42" longitude="44.31"/>
+  </province>
+  <province name="Hawaii" capital="Honolulu">
+    <mountain name="Haleakala" height="3055" latitude="20.7" longitude="-156.25"/>
+    <mountain name="Mauna Kea" height="4214" latitude="19.6" longitude="-155.45"/>
+    <mountain name="Mauna Loa" height="4170" latitude="19.5" longitude="-155.6"/>
+  </province>
+  <province name="Idaho" capital="Boise">
+    <mountain name="Borah Peak" height="3859" latitude="44.1" longitude="-113.8"/>
+  </province>
+  <province name="Illinois" capital="Springfield"/>
+  <province name="Indiana" capital="Indianapolis"/>
+  <province name="Iowa" capital="Des Moines"/>
+  <province name="Kansas" capital="Topeka"/>
+  <province name="Kentucky" capital="Frankfort"/>
+  <province name="Louisiana" capital="Baton Rouge"/>
+  <province name="Maine" capital="Augusta"/>
+  <province name="Maryland" capital="Annapolis"/>
+  <province name="Massachusetts" capital="Boston"/>
+  <province name="Michigan" capital="Lansing"/>
+  <province name="Minnesota" capital="St. Paul"/>
+  <province name="Mississippi" capital="Jackson"/>
+  <province name="Missouri" capital="Jefferson City"/>
+  <province name="Montana" capital="Helena">
+    <mountain name="Granite Peak" height="3901" latitude="45" longitude="-109.5"/>
+  </province>
+  <province name="Nebraska" capital="Lincoln"/>
+  <province name="Nevada" capital="Carson City">
+    <mountain name="Boundary Peak" height="4006" latitude="37.9" longitude="-118.3"/>
+  </province>
+  <province name="New Hampshire" capital="Concord">
+    <mountain name="Mt Washington" height="1917" latitude="44.3" longitude="-71.3"/>
+  </province>
+  <province name="New Jersey" capital="Trenton"/>
+  <province name="New Mexico" capital="Santa Fe">
+    <mountain name="Wheeler Peak" height="4011" latitude="36.55" longitude="-105.4"/>
+  </province>
+  <province name="New York" capital="Albany">
+    <mountain name="Mt Marcy" height="1629" latitude="44.1" longitude="-73.9"/>
+  </province>
+  <province name="North Carolina" capital="Raleigh">
+    <mountain name="Mt Mitchell" height="2037" latitude="35.4" longitude="-82.1"/>
+  </province>
+  <province name="North Dakota" capital="Bismarck"/>
+  <province name="Ohio" capital="Columbus"/>
+  <province name="Oklahoma" capital="Oklahoma City"/>
+  <province name="Oregon" capital="Salem">
+    <mountain name="Mt Hood" height="3424" latitude="45.2" longitude="-121.5"/>
+  </province>
+  <province name="Pennsylvania" capital="Harrisburg"/>
+  <province name="Rhode Island" capital="Providence"/>
+  <province name="South Carolina" capital="Columbia"/>
+  <province name="South Dakota" capital="Pierre">
+    <mountain name="Harney Peak" height="2207" latitude="44" longitude="-103.4"/>
+  </province>
+  <province name="Tennessee" capital="Nashville">
+    <mountain name="Clingmans Dome" height="2025" latitude="35.3" longitude="-83.2"/>
+  </province>
+  <province name="Texas" capital="Austin">
+    <mountain name="Guadalupe Peak" height="2667" latitude="32" longitude="-105"/>
+  </province>
+  <province name="Utah" capital="Salt Lake City">
+    <mountain name="Kings Peak" height="4123" latitude="40.5" longitude="-110.4"/>
+  </province>
+  <province name="Vermont" capital="Montpelier"/>
+  <province name="Virginia" capital="Richmond"/>
+  <province name="Washington" capital="Olympia">
+    <mountain name="Mt Adams" height="3743" latitude="46.2" longitude="-121.5"/>
+    <mountain name="Mt Rainier" height="4392" latitude="46.5" longitude="-121.75"/>
+  </province>
+  <province name="West Virginia" capital="Charleston"/>
+  <province name="Wisconsin" capital="Madison"/>
+  <province name="Wyoming" capital="Cheyenne">
+    <mountain name="Gannett Peak" height="4207" latitude="43.2" longitude="-110"/>
+  </province>
+  <province name="Distr. Columbia" capital="Washington"/>
+  <province name="Cayman Islands" capital="George Town"/>
+  <province name="San Jose" capital="San Jose"/>
+  <province name="Alajuela" capital="Alajuela"/>
+  <province name="Cartago" capital="Cartago">
+    <mountain name="Cerro Chirripo" height="3819" latitude="9.5" longitude="-83.5"/>
+    <mountain name="Irazu" height="3432" latitude="10" longitude="-83.9"/>
+  </province>
+  <province name="Heredia" capital="Heredia"/>
+  <province name="Guanacaste" capital="Liberia"/>
+  <province name="Puntarenas" capital="Puntarenas"/>
+  <province name="Limon" capital="Limon">
+    <mountain name="Cerro Chirripo" height="3819" latitude="9.5" longitude="-83.5"/>
+  </province>
+  <province name="Nicaragua" capital="Managua">
+    <mountain name="Concepcion" height="1700" latitude="11.5" longitude="-85.6"/>
+  </province>
+  <province name="Bocas del Toro" capital="Bocas del Toro"/>
+  <province name="Cocle" capital="Penonome"/>
+  <province name="Colon" capital="Colon"/>
+  <province name="Comarca de San Blas" capital="El Porvenir"/>
+  <province name="Chiriqui" capital="David"/>
+  <province name="Darien" capital="La Palma"/>
+  <province name="Herrera" capital="Chitre"/>
+  <province name="Los Santos" capital="Las Tablas"/>
+  <province name="Panama" capital="Panama City"/>
+  <province name="Veraguas" capital="Santiago"/>
+  <province name="Camaguey" capital="Camaguey"/>
+  <province name="Ciego de Avila" capital="Ciego de Avila"/>
+  <province name="Cienfuegos" capital="Cienfuegos"/>
+  <province name="Ciudad de la Habana" capital="Havana"/>
+  <province name="Granma" capital="Bayamo">
+    <mountain name="Pico Turquino" height="1974" latitude="20" longitude="-76.8"/>
+  </province>
+  <province name="Guantanamo" capital="Guantanamo"/>
+  <province name="Holguin" capital="Holguin"/>
+  <province name="La Habana" capital="Havana"/>
+  <province name="Las Tunas" capital="Victoria de las Tunas"/>
+  <province name="Matanzas" capital="Matanzas"/>
+  <province name="Pinar del Rio" capital="Pinar del Rio"/>
+  <province name="Sancti Spiritus" capital="Sancti Spiritus"/>
+  <province name="Santiago de Cuba" capital="Santiago de Cuba">
+    <mountain name="Pico Turquino" height="1974" latitude="20" longitude="-76.8"/>
+  </province>
+  <province name="Villa Clara" capital="Santa Clara"/>
+  <province name="Isla de la Juventud" capital="Nueva Gerona"/>
+  <province name="Dominica" capital="Roseau">
+    <mountain name="Morne Diablotins" height="1447" latitude="15.5" longitude="-61.4"/>
+  </province>
+  <province name="Dominican Republic" capital="Santo Domingo">
+    <mountain name="Pico Duarte" height="3098" latitude="18.3" longitude="-71.3"/>
+  </province>
+  <province name="Haiti" capital="Port-au-Prince"/>
+  <province name="El Salvador" capital="San Salvador"/>
+  <province name="Atlantida" capital="La Ceiba"/>
+  <province name="Colon" capital="Trujillo"/>
+  <province name="Comayagua" capital="Comayagua"/>
+  <province name="Copan" capital="Santa Rosa de Copan"/>
+  <province name="Cortes" capital="San Pedro Sula"/>
+  <province name="Choluteca" capital="Choluteca"/>
+  <province name="El Paraiso" capital="Yuscaran"/>
+  <province name="Francisco Morazan" capital="Tegucigalpa"/>
+  <province name="Gracias a Dios" capital="Puerto Lempira"/>
+  <province name="Intibuca" capital="La Esperanza"/>
+  <province name="Islas de la Bahia" capital="Roatan"/>
+  <province name="La Paz" capital="La Paz"/>
+  <province name="Lempira" capital="Gracias"/>
+  <province name="Ocotepeque" capital="Ocotepeque"/>
+  <province name="Olancho" capital="Jutigalpa"/>
+  <province name="Santa Barbara" capital="Santa Barbara"/>
+  <province name="Valle" capital="Nacaome"/>
+  <province name="Yoro" capital="Yoro"/>
+  <province name="Greenland" capital="Nuuk"/>
+  <province name="Grenada" capital="Saint Georges"/>
+  <province name="Guadeloupe" capital="Basse-Terre">
+    <mountain name="La Soufriere" height="1467" latitude="16.05" longitude="-61.65"/>
+  </province>
+  <province name="Jamaica" capital="Kingston">
+    <mountain name="Blue Mountain Peak" height="2256" latitude="18.1" longitude="-76.4"/>
+  </province>
+  <province name="Martinique" capital="Fort-de-France">
+    <mountain name="Pelee" height="1397" latitude="14.8" longitude="-61.15"/>
+  </province>
+  <province name="Montserrat" capital="Plymouth">
+    <mountain name="Soufriere Hills" height="1050" latitude="16.7" longitude="-62.2"/>
+  </province>
+  <province name="Netherlands Antilles" capital="Willemstad"/>
+  <province name="Saint Martin" capital="Marigot"/>
+  <province name="Amazonas" capital="Leticia"/>
+  <province name="Antioquia" capital="Medellin"/>
+  <province name="Arauca" capital="Arauca"/>
+  <province name="Atlantico" capital="Barranquilla"/>
+  <province name="Bolivar" capital="Cartagena"/>
+  <province name="Boyaca" capital="Tunja"/>
+  <province name="Caldas" capital="Manizales"/>
+  <province name="Caqueta" capital="Florencia"/>
+  <province name="Casanare" capital="Yopal"/>
+  <province name="Cauca" capital="Popayan"/>
+  <province name="Cesar" capital="Valledupar"/>
+  <province name="Choco" capital="Quibdo">
+    <mountain name="Nevado del Ruiz" height="5389" latitude="4.9" longitude="-75.3"/>
+  </province>
+  <province name="Cordoba" capital="Monteria"/>
+  <province name="Cundinamarca" capital="Bogota"/>
+  <province name="Guainia" capital="Puerto Inirida"/>
+  <province name="Guajira, La" capital="Riohacha"/>
+  <province name="Guaviare" capital="San Jose del Guaviare"/>
+  <province name="Huila" capital="Neiva">
+    <mountain name="Nevado del Huila" height="5750" latitude="2.9" longitude="-76"/>
+  </province>
+  <province name="Magdalena" capital="Santa Marta">
+    <mountain name="Pico Cristobal Colon" height="5775" latitude="10.85" longitude="-73.7"/>
+  </province>
+  <province name="Meta" capital="Villavicencio"/>
+  <province name="Narino" capital="Pasto"/>
+  <province name="Norte de Santander" capital="Cucuta"/>
+  <province name="Putumayo" capital="Mocoa"/>
+  <province name="Quindio" capital="Armenia"/>
+  <province name="Risaralda" capital="Pereira">
+    <mountain name="Nevado del Ruiz" height="5389" latitude="4.9" longitude="-75.3"/>
+  </province>
+  <province name="San Andres y Providencia" capital="San Andres"/>
+  <province name="Santa Fe de Bogota, DC" capital="Bogota"/>
+  <province name="Santander del Sur" capital="Bucaramanga"/>
+  <province name="Sucre" capital="Sincelejo"/>
+  <province name="Tolima" capital="Ibague"/>
+  <province name="Valle de Cauca" capital="Cali"/>
+  <province name="Vaupes" capital="Mitu"/>
+  <province name="Vichada" capital="Puerto Carreno"/>
+  <province name="Puerto Rico" capital="San Juan">
+    <mountain name="Cerro de Punta" height="1338" latitude="18.2" longitude="-66.6"/>
+  </province>
+  <province name="Saint Kitts and Nevis" capital="Basseterre"/>
+  <province name="Saint Lucia" capital="Castries"/>
+  <province name="Saint Pierre and Miquelon" capital="Saint-Pierre"/>
+  <province name="Saint Vincent and the Grenadines" capital="Kingstown">
+    <mountain name="Soufriere" height="1220" latitude="13.35" longitude="-61.2"/>
+  </province>
+</mondial>
+
